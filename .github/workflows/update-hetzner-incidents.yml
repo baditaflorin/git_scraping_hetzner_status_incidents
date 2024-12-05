@@ -22,6 +22,9 @@ jobs:
       - name: Run Hetzner Incidents Update
         run: go run main.go
 
+      - name: Set Remote URL
+        run: git remote set-url origin https://github.com/${{ github.repository }}
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:

@@ -1,4 +1,11 @@
 {
+  "https://status.hetzner.com/001fcae3-aeec-4638-8436-a7eced38325e/0": {
+    "id": "https://status.hetzner.com/001fcae3-aeec-4638-8436-a7eced38325e/0",
+    "updated": "2024-12-12T05:42:51+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC12",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/001fcae3-aeec-4638-8436-a7eced38325e"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",

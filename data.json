@@ -48,6 +48,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4337e2f-3b6a-4e5b-98d6-865f43b87c80"
   },
+  "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0": {
+    "id": "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0",
+    "updated": "2024-12-16T07:05:21+00:00",
+    "title": "Function tests on UPS and emergency power systems in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a4f29523-e2ba-4158-aad7-a1051cc75dd3"
+  },
   "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1": {
     "id": "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1",
     "updated": "2024-12-05T07:31:21+00:00",

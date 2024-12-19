@@ -20,6 +20,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/382de8be-4ddd-42d9-9480-5cc3d0a4ec93"
   },
+  "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0": {
+    "id": "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0",
+    "updated": "2024-12-18T05:31:33+00:00",
+    "title": "Support hours between 24 December 2024 and 1 January 2025",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5a545671-1506-4ad1-952d-725cc407f697"
+  },
   "https://status.hetzner.com/7f77f997-1b0e-4b94-b4d8-7540a739db0d/0": {
     "id": "https://status.hetzner.com/7f77f997-1b0e-4b94-b4d8-7540a739db0d/0",
     "updated": "2024-11-04T15:01:26+00:00",
@@ -33,6 +40,13 @@
     "title": "Maintenance emergency power system in HEL1-DC10",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/8fb2d700-e7ba-49df-8ca5-fc95e100abe2"
+  },
+  "https://status.hetzner.com/90539492-6829-4d4a-afd3-c502537a1247/0": {
+    "id": "https://status.hetzner.com/90539492-6829-4d4a-afd3-c502537a1247/0",
+    "updated": "2024-12-18T10:53:58+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/90539492-6829-4d4a-afd3-c502537a1247"
   },
   "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1": {
     "id": "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1",
@@ -62,11 +76,25 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/aa5ce33b-faa5-4fd0-9782-fde43cd270cf"
   },
+  "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0": {
+    "id": "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0",
+    "updated": "2024-12-18T10:51:39+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c919c411-bbb5-454a-b755-5100dbcc6e2c"
+  },
   "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0": {
     "id": "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0",
     "updated": "2024-10-31T09:00:33+00:00",
     "title": "General Network maintenance from 2024/11/4 to 2024/12/6",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
+  },
+  "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
+    "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",
+    "updated": "2024-12-18T15:55:20+00:00",
+    "title": "Planned maintenance work on the Hetzner Forum",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/fdc2fdf2-fd8c-473c-9372-2679435789ce"
   }
 }

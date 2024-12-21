@@ -83,6 +83,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/c919c411-bbb5-454a-b755-5100dbcc6e2c"
   },
+  "https://status.hetzner.com/ca31d5a4-234d-4fab-b613-0c02d3e5b5ca/0": {
+    "id": "https://status.hetzner.com/ca31d5a4-234d-4fab-b613-0c02d3e5b5ca/0",
+    "updated": "2024-12-20T12:32:33+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ca31d5a4-234d-4fab-b613-0c02d3e5b5ca"
+  },
   "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0": {
     "id": "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0",
     "updated": "2024-10-31T09:00:33+00:00",

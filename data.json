@@ -48,6 +48,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/8fb2d700-e7ba-49df-8ca5-fc95e100abe2"
   },
+  "https://status.hetzner.com/8feb589b-b083-4c0d-aaac-b2c3d9e3ca34/0": {
+    "id": "https://status.hetzner.com/8feb589b-b083-4c0d-aaac-b2c3d9e3ca34/0",
+    "updated": "2025-01-08T14:55:38+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8feb589b-b083-4c0d-aaac-b2c3d9e3ca34"
+  },
   "https://status.hetzner.com/90539492-6829-4d4a-afd3-c502537a1247/0": {
     "id": "https://status.hetzner.com/90539492-6829-4d4a-afd3-c502537a1247/0",
     "updated": "2024-12-18T10:53:58+00:00",

@@ -20,12 +20,26 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/382de8be-4ddd-42d9-9480-5cc3d0a4ec93"
   },
+  "https://status.hetzner.com/39bedbe2-a830-4eba-9a54-43f3bded630b/0": {
+    "id": "https://status.hetzner.com/39bedbe2-a830-4eba-9a54-43f3bded630b/0",
+    "updated": "2025-01-09T11:41:46+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/39bedbe2-a830-4eba-9a54-43f3bded630b"
+  },
   "https://status.hetzner.com/4037ec50-0fe4-4e56-9f7d-e4d4bb3cbb9f/0": {
     "id": "https://status.hetzner.com/4037ec50-0fe4-4e56-9f7d-e4d4bb3cbb9f/0",
     "updated": "2024-12-30T07:35:39+00:00",
     "title": "Limited support on 6 January 2025",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/4037ec50-0fe4-4e56-9f7d-e4d4bb3cbb9f"
+  },
+  "https://status.hetzner.com/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9/0": {
+    "id": "https://status.hetzner.com/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9/0",
+    "updated": "2025-01-09T11:42:36+00:00",
+    "title": "Maintenance work on the NetBoot (PXE) infrastructure",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9"
   },
   "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0": {
     "id": "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0",

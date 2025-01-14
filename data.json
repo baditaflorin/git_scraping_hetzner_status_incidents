@@ -55,6 +55,20 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7f77f997-1b0e-4b94-b4d8-7540a739db0d"
   },
+  "https://status.hetzner.com/7fae9cca-b38c-4154-8a27-14e6dfea5c1e/0": {
+    "id": "https://status.hetzner.com/7fae9cca-b38c-4154-8a27-14e6dfea5c1e/0",
+    "updated": "2025-01-13T12:13:18+00:00",
+    "title": "Mainboard replacements for dedicated servers",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7fae9cca-b38c-4154-8a27-14e6dfea5c1e"
+  },
+  "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0": {
+    "id": "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0",
+    "updated": "2025-01-13T11:39:10+00:00",
+    "title": "Maintenance work on the jobs portal (career.hetzner.com)",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8856345f-8dfb-42c5-a9f0-4665fc12d3a7"
+  },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
     "updated": "2024-12-05T07:08:06+00:00",

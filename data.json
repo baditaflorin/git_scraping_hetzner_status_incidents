@@ -13,6 +13,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2e715748-fddd-427b-a07b-b34a5a9edee3"
   },
+  "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0": {
+    "id": "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0",
+    "updated": "2025-01-15T06:02:24+00:00",
+    "title": "UPS function tests in FSN1-DC18",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2f8792c5-11e1-4377-988e-e3303269f7d0"
+  },
   "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0": {
     "id": "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0",
     "updated": "2024-04-30T09:31:12+00:00",

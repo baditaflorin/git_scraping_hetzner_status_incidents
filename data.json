@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/aa5ce33b-faa5-4fd0-9782-fde43cd270cf"
   },
+  "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0": {
+    "id": "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0",
+    "updated": "2025-01-21T12:53:25+00:00",
+    "title": "Latest AWS SDK/CLI updates incompatible with Object Storage",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
+  },
   "https://status.hetzner.com/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9/0": {
     "id": "https://status.hetzner.com/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9/0",
     "updated": "2025-01-10T10:38:41+00:00",

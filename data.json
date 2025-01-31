@@ -48,6 +48,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9"
   },
+  "https://status.hetzner.com/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b/1": {
+    "id": "https://status.hetzner.com/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b/1",
+    "updated": "2025-01-31T00:18:08+00:00",
+    "title": "Object Storage in location fsn1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b"
+  },
   "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0": {
     "id": "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0",
     "updated": "2024-12-18T05:31:33+00:00",
@@ -173,6 +180,13 @@
     "title": "Backbone connection fault between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e21c3bfb-d22c-4655-856a-6c91f33bd482"
+  },
+  "https://status.hetzner.com/e41394f6-e74e-4407-bd5d-ba591daf6ef3/0": {
+    "id": "https://status.hetzner.com/e41394f6-e74e-4407-bd5d-ba591daf6ef3/0",
+    "updated": "2025-01-30T12:22:45+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e41394f6-e74e-4407-bd5d-ba591daf6ef3"
   },
   "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
     "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",

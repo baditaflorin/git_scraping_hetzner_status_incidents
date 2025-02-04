@@ -111,6 +111,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/90539492-6829-4d4a-afd3-c502537a1247"
   },
+  "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0": {
+    "id": "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0",
+    "updated": "2025-02-03T08:27:58+00:00",
+    "title": "Maintenance work on mirror (mirror.hetzner.com / download.hetzner.com)",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3"
+  },
   "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1": {
     "id": "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1",
     "updated": "2024-12-03T07:00:09+00:00",

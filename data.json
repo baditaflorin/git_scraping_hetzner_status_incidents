@@ -62,6 +62,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5a545671-1506-4ad1-952d-725cc407f697"
   },
+  "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1": {
+    "id": "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1",
+    "updated": "2025-02-07T16:29:53+00:00",
+    "title": "Networkboot on Hyper-V 1st Gen machines not possible",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
+  },
   "https://status.hetzner.com/7f777643-a158-49f7-9286-a8e1a9b696bf/1": {
     "id": "https://status.hetzner.com/7f777643-a158-49f7-9286-a8e1a9b696bf/1",
     "updated": "2025-01-27T16:00:02+00:00",
@@ -194,6 +201,13 @@
     "title": "Maintenance work on the DNS API",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e41394f6-e74e-4407-bd5d-ba591daf6ef3"
+  },
+  "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0": {
+    "id": "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0",
+    "updated": "2025-02-07T06:42:27+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/eb6ddd91-6f57-4c8c-a860-4e16974162fc"
   },
   "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
     "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",

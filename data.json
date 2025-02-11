@@ -69,11 +69,25 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
   },
+  "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0": {
+    "id": "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0",
+    "updated": "2025-02-10T06:36:54+00:00",
+    "title": "Maintenance work on billing functions and consumption data",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/675b75d8-8931-4d26-b8ff-7853d8e027cc"
+  },
   "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0": {
     "id": "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0",
     "updated": "2025-02-08T10:14:33+00:00",
     "title": "Connection problems with private notworks in NBG",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7a0e91be-15d3-44be-af94-d866fcde272c"
+  },
+  "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/1": {
+    "id": "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/1",
+    "updated": "2025-02-10T19:44:02+00:00",
+    "title": "Connection problems with private networks in NBG",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/7a0e91be-15d3-44be-af94-d866fcde272c"
   },
   "https://status.hetzner.com/7f777643-a158-49f7-9286-a8e1a9b696bf/1": {
@@ -152,6 +166,13 @@
     "title": "Function tests on UPS and emergency power systems in HEL1-DC10",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4f29523-e2ba-4158-aad7-a1051cc75dd3"
+  },
+  "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/0": {
+    "id": "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/0",
+    "updated": "2025-02-10T09:12:15+00:00",
+    "title": "Replacement of power supply components and UPS in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358"
   },
   "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1": {
     "id": "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1",

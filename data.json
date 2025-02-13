@@ -20,6 +20,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2f8792c5-11e1-4377-988e-e3303269f7d0"
   },
+  "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0": {
+    "id": "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0",
+    "updated": "2025-02-12T15:54:12+00:00",
+    "title": "Robot routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3768340a-ccb7-4fb1-b07d-6bc70fd2c181"
+  },
   "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0": {
     "id": "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0",
     "updated": "2024-04-30T09:31:12+00:00",
@@ -110,6 +117,13 @@
     "title": "Mainboard replacements for dedicated servers",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7fae9cca-b38c-4154-8a27-14e6dfea5c1e"
+  },
+  "https://status.hetzner.com/8152e721-53c3-41a8-9f91-918ec48237bd/0": {
+    "id": "https://status.hetzner.com/8152e721-53c3-41a8-9f91-918ec48237bd/0",
+    "updated": "2025-02-12T15:55:06+00:00",
+    "title": "Hetzner Accounts routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8152e721-53c3-41a8-9f91-918ec48237bd"
   },
   "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0": {
     "id": "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0",

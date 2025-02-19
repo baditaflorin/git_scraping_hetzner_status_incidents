@@ -6,6 +6,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/001fcae3-aeec-4638-8436-a7eced38325e"
   },
+  "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/3": {
+    "id": "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/3",
+    "updated": "2025-02-18T21:45:55+00:00",
+    "title": "Object Storage in location FSN1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",
@@ -54,6 +61,13 @@
     "title": "Maintenance work on the NetBoot (PXE) infrastructure",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9"
+  },
+  "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0": {
+    "id": "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0",
+    "updated": "2025-02-18T07:25:44+00:00",
+    "title": "Function tests on UPS and emergency power systems in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/4988a894-2454-4327-a27f-01c5c85f6c58"
   },
   "https://status.hetzner.com/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b/1": {
     "id": "https://status.hetzner.com/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b/1",
@@ -186,6 +200,13 @@
     "updated": "2025-02-10T09:12:15+00:00",
     "title": "Replacement of power supply components and UPS in FSN1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358"
+  },
+  "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/1": {
+    "id": "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/1",
+    "updated": "2025-02-18T05:39:54+00:00",
+    "title": "Replacement of power supply components and UPS in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358"
   },
   "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1": {

@@ -13,6 +13,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
   },
+  "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/4": {
+    "id": "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/4",
+    "updated": "2025-02-19T12:08:08+00:00",
+    "title": "Object Storage in location FSN1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",
@@ -215,6 +222,13 @@
     "title": "Limited availability of Cloud plans",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/aa5ce33b-faa5-4fd0-9782-fde43cd270cf"
+  },
+  "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1": {
+    "id": "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1",
+    "updated": "2025-02-19T13:48:36+00:00",
+    "title": "Object Storage in location hel1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
   },
   "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0": {
     "id": "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0",

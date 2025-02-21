@@ -20,6 +20,20 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
   },
+  "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/5": {
+    "id": "https://status.hetzner.com/03cc5576-9a8f-454f-bb4d-652b52f882ef/5",
+    "updated": "2025-02-20T10:27:22+00:00",
+    "title": "Object Storage in location FSN1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
+  },
+  "https://status.hetzner.com/0bf4e2f5-8c46-4181-8492-dee864fa5716/0": {
+    "id": "https://status.hetzner.com/0bf4e2f5-8c46-4181-8492-dee864fa5716/0",
+    "updated": "2025-02-20T06:48:29+00:00",
+    "title": "Maintenance of Cloud Products",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0bf4e2f5-8c46-4181-8492-dee864fa5716"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",
@@ -228,6 +242,13 @@
     "updated": "2025-02-19T13:48:36+00:00",
     "title": "Object Storage in location hel1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
+  },
+  "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/2": {
+    "id": "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/2",
+    "updated": "2025-02-20T10:27:02+00:00",
+    "title": "Object Storage in location hel1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
   },
   "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0": {

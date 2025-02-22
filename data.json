@@ -69,6 +69,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/39bedbe2-a830-4eba-9a54-43f3bded630b"
   },
+  "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
+    "id": "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0",
+    "updated": "2025-02-21T11:12:11+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC11",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c"
+  },
   "https://status.hetzner.com/4037ec50-0fe4-4e56-9f7d-e4d4bb3cbb9f/0": {
     "id": "https://status.hetzner.com/4037ec50-0fe4-4e56-9f7d-e4d4bb3cbb9f/0",
     "updated": "2024-12-30T07:35:39+00:00",
@@ -251,6 +258,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
   },
+  "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/6": {
+    "id": "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/6",
+    "updated": "2025-02-21T16:52:18+00:00",
+    "title": "Object Storage in location hel1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
+  },
   "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0": {
     "id": "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0",
     "updated": "2025-01-21T12:53:25+00:00",
@@ -299,6 +313,13 @@
     "title": "Maintenance work on the DNS API",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e41394f6-e74e-4407-bd5d-ba591daf6ef3"
+  },
+  "https://status.hetzner.com/e897a42c-ed2c-4a3e-8be1-724041626c32/0": {
+    "id": "https://status.hetzner.com/e897a42c-ed2c-4a3e-8be1-724041626c32/0",
+    "updated": "2025-02-21T11:13:46+00:00",
+    "title": "UPS function tests in FSN1-DC11",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e897a42c-ed2c-4a3e-8be1-724041626c32"
   },
   "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0": {
     "id": "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0",

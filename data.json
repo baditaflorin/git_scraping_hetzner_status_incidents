@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/675b75d8-8931-4d26-b8ff-7853d8e027cc"
   },
+  "https://status.hetzner.com/6c80c51e-0391-47de-b62f-e24df1b27505/0": {
+    "id": "https://status.hetzner.com/6c80c51e-0391-47de-b62f-e24df1b27505/0",
+    "updated": "2025-02-24T10:52:45+00:00",
+    "title": "Discontinued support for operating system Ubuntu 20.04",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6c80c51e-0391-47de-b62f-e24df1b27505"
+  },
   "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0": {
     "id": "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0",
     "updated": "2025-02-08T10:14:33+00:00",

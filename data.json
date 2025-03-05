@@ -34,11 +34,25 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0bf4e2f5-8c46-4181-8492-dee864fa5716"
   },
+  "https://status.hetzner.com/143dda0f-d22e-4636-9588-13ef0ffb004f/0": {
+    "id": "https://status.hetzner.com/143dda0f-d22e-4636-9588-13ef0ffb004f/0",
+    "updated": "2025-03-04T13:10:56+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/143dda0f-d22e-4636-9588-13ef0ffb004f"
+  },
   "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0": {
     "id": "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0",
     "updated": "2025-02-26T07:50:30+00:00",
     "title": "Maintenance UPS systems in FSN1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/244996c9-e8c4-4e0a-a1a8-97c082a8c763"
+  },
+  "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/1": {
+    "id": "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/1",
+    "updated": "2025-03-04T07:16:21+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/244996c9-e8c4-4e0a-a1a8-97c082a8c763"
   },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {

@@ -328,6 +328,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
   },
+  "https://status.hetzner.com/d3fc5280-26d9-43e8-9e18-02108e28f847/0": {
+    "id": "https://status.hetzner.com/d3fc5280-26d9-43e8-9e18-02108e28f847/0",
+    "updated": "2025-03-05T17:06:23+00:00",
+    "title": "Hetzner Accounts: 2FA Limitation",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d3fc5280-26d9-43e8-9e18-02108e28f847"
+  },
   "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0": {
     "id": "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0",
     "updated": "2024-12-25T17:03:52+00:00",

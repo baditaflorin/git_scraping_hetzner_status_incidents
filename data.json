@@ -118,6 +118,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/454ddc13-0f5e-46e2-87b3-fe1d0056e7e9"
   },
+  "https://status.hetzner.com/4647294b-876c-4698-858b-1706ccedeaa0/0": {
+    "id": "https://status.hetzner.com/4647294b-876c-4698-858b-1706ccedeaa0/0",
+    "updated": "2025-03-10T13:27:42+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/4647294b-876c-4698-858b-1706ccedeaa0"
+  },
   "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0": {
     "id": "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0",
     "updated": "2025-02-18T07:25:44+00:00",
@@ -341,6 +348,13 @@
     "title": "Hetzner Accounts: 2FA Limitation",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d3fc5280-26d9-43e8-9e18-02108e28f847"
+  },
+  "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0": {
+    "id": "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0",
+    "updated": "2025-03-10T12:28:39+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC15",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/da33d69e-b7d1-41f2-afdf-767a1f608e20"
   },
   "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0": {
     "id": "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0",

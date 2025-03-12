@@ -244,12 +244,26 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3"
   },
+  "https://status.hetzner.com/9f6d1693-e9ad-4b7f-9482-63c4419c9f46/0": {
+    "id": "https://status.hetzner.com/9f6d1693-e9ad-4b7f-9482-63c4419c9f46/0",
+    "updated": "2025-03-11T08:27:38+00:00",
+    "title": "Maintenance at backbone connection between Stockholm - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/9f6d1693-e9ad-4b7f-9482-63c4419c9f46"
+  },
   "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1": {
     "id": "https://status.hetzner.com/a0cd1487-30a8-4073-8d32-40809080d5fb/1",
     "updated": "2024-12-03T07:00:09+00:00",
     "title": "Maintenance UPS systems in FSN1-DC5",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/a0cd1487-30a8-4073-8d32-40809080d5fb"
+  },
+  "https://status.hetzner.com/a2c27774-b152-4702-ba6f-dc181ca2d3fc/0": {
+    "id": "https://status.hetzner.com/a2c27774-b152-4702-ba6f-dc181ca2d3fc/0",
+    "updated": "2025-03-11T08:24:36+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Amsterdam",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a2c27774-b152-4702-ba6f-dc181ca2d3fc"
   },
   "https://status.hetzner.com/a4337e2f-3b6a-4e5b-98d6-865f43b87c80/0": {
     "id": "https://status.hetzner.com/a4337e2f-3b6a-4e5b-98d6-865f43b87c80/0",

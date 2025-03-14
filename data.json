@@ -27,6 +27,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
   },
+  "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0": {
+    "id": "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0",
+    "updated": "2025-03-13T14:17:09+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC8",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0922bace-449e-4238-85b2-331ff2edd1af"
+  },
   "https://status.hetzner.com/0bf4e2f5-8c46-4181-8492-dee864fa5716/0": {
     "id": "https://status.hetzner.com/0bf4e2f5-8c46-4181-8492-dee864fa5716/0",
     "updated": "2025-02-20T06:48:29+00:00",
@@ -335,6 +342,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9"
   },
+  "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0": {
+    "id": "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0",
+    "updated": "2025-03-13T14:16:46+00:00",
+    "title": "UPS function tests in FSN1-DC8",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c7221e6a-c1e1-4bf0-881d-3e16a86313ff"
+  },
   "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0": {
     "id": "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0",
     "updated": "2024-12-18T10:51:39+00:00",
@@ -397,6 +411,20 @@
     "title": "Maintenance work on abuse system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/eb6ddd91-6f57-4c8c-a860-4e16974162fc"
+  },
+  "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0": {
+    "id": "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0",
+    "updated": "2025-03-13T14:19:35+00:00",
+    "title": "UPS function tests in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f814674b-99b5-4da4-9bc5-32df62efe9a1"
+  },
+  "https://status.hetzner.com/f8d70834-c057-475a-9254-fb785d0e97eb/0": {
+    "id": "https://status.hetzner.com/f8d70834-c057-475a-9254-fb785d0e97eb/0",
+    "updated": "2025-03-13T06:31:40+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f8d70834-c057-475a-9254-fb785d0e97eb"
   },
   "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
     "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",

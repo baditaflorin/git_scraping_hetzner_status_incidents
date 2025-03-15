@@ -216,6 +216,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8152e721-53c3-41a8-9f91-918ec48237bd"
   },
+  "https://status.hetzner.com/852c9966-3a1f-4a56-926b-5a10064b2d5a/0": {
+    "id": "https://status.hetzner.com/852c9966-3a1f-4a56-926b-5a10064b2d5a/0",
+    "updated": "2025-03-14T06:21:39+00:00",
+    "title": "Maintenance work on power supply systems in HEL1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/852c9966-3a1f-4a56-926b-5a10064b2d5a"
+  },
   "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0": {
     "id": "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0",
     "updated": "2025-01-13T11:39:10+00:00",

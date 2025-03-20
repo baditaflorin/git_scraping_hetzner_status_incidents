@@ -314,6 +314,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/aa5ce33b-faa5-4fd0-9782-fde43cd270cf"
   },
+  "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/0": {
+    "id": "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/0",
+    "updated": "2025-03-19T19:43:27+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Nuremberg",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/acd478be-b3e2-4a09-ace8-f792ebd37554"
+  },
   "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1": {
     "id": "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1",
     "updated": "2025-02-19T13:48:36+00:00",

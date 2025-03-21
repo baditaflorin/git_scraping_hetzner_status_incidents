@@ -293,6 +293,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4f29523-e2ba-4158-aad7-a1051cc75dd3"
   },
+  "https://status.hetzner.com/a7003149-978f-4df1-947b-628168cf3fc5/0": {
+    "id": "https://status.hetzner.com/a7003149-978f-4df1-947b-628168cf3fc5/0",
+    "updated": "2025-03-20T13:43:26+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC15",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a7003149-978f-4df1-947b-628168cf3fc5"
+  },
   "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/0": {
     "id": "https://status.hetzner.com/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358/0",
     "updated": "2025-02-10T09:12:15+00:00",

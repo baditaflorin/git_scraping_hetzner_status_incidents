@@ -55,6 +55,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/143dda0f-d22e-4636-9588-13ef0ffb004f"
   },
+  "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
+    "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
+    "updated": "2025-03-24T06:23:38+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/205efccd-b5bd-4701-926a-c9349f6310ad"
+  },
   "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0": {
     "id": "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0",
     "updated": "2025-02-26T07:50:30+00:00",
@@ -89,6 +96,13 @@
     "title": "Robot routine maintenance work",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/3768340a-ccb7-4fb1-b07d-6bc70fd2c181"
+  },
+  "https://status.hetzner.com/37e08062-5eb3-4bb7-b649-96aaa35633bc/1": {
+    "id": "https://status.hetzner.com/37e08062-5eb3-4bb7-b649-96aaa35633bc/1",
+    "updated": "2025-03-24T06:23:56+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC3",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/37e08062-5eb3-4bb7-b649-96aaa35633bc"
   },
   "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0": {
     "id": "https://status.hetzner.com/382de8be-4ddd-42d9-9480-5cc3d0a4ec93/0",

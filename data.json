@@ -188,6 +188,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6c80c51e-0391-47de-b62f-e24df1b27505"
   },
+  "https://status.hetzner.com/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a/0": {
+    "id": "https://status.hetzner.com/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a/0",
+    "updated": "2025-03-25T17:45:49+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Falkenstein",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a"
+  },
   "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0": {
     "id": "https://status.hetzner.com/7a0e91be-15d3-44be-af94-d866fcde272c/0",
     "updated": "2025-02-08T10:14:33+00:00",

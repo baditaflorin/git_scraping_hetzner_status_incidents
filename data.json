@@ -118,6 +118,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/39bedbe2-a830-4eba-9a54-43f3bded630b"
   },
+  "https://status.hetzner.com/3adf8066-3e45-493f-9123-f44f7598bd18/1": {
+    "id": "https://status.hetzner.com/3adf8066-3e45-493f-9123-f44f7598bd18/1",
+    "updated": "2025-03-28T11:54:30+00:00",
+    "title": "Fault report for EPS systems in FSN1-DC6",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/3adf8066-3e45-493f-9123-f44f7598bd18"
+  },
   "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
     "id": "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0",
     "updated": "2025-02-21T11:12:11+00:00",

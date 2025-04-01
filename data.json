@@ -55,6 +55,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/143dda0f-d22e-4636-9588-13ef0ffb004f"
   },
+  "https://status.hetzner.com/19538b49-8b65-49e1-9831-99226dfb76ec/0": {
+    "id": "https://status.hetzner.com/19538b49-8b65-49e1-9831-99226dfb76ec/0",
+    "updated": "2025-03-31T07:39:32+00:00",
+    "title": "UPS function tests in FSN1-DC7",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/19538b49-8b65-49e1-9831-99226dfb76ec"
+  },
   "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
     "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
     "updated": "2025-03-24T06:23:38+00:00",
@@ -174,12 +181,26 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5a545671-1506-4ad1-952d-725cc407f697"
   },
+  "https://status.hetzner.com/5b48dd93-8353-4715-8350-96a78a987588/0": {
+    "id": "https://status.hetzner.com/5b48dd93-8353-4715-8350-96a78a987588/0",
+    "updated": "2025-03-31T10:05:21+00:00",
+    "title": "Maintenance work on power supply systems in HEL1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5b48dd93-8353-4715-8350-96a78a987588"
+  },
   "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1": {
     "id": "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1",
     "updated": "2025-02-07T16:29:53+00:00",
     "title": "Networkboot on Hyper-V 1st Gen machines not possible",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
+  },
+  "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0": {
+    "id": "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0",
+    "updated": "2025-03-31T07:38:08+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC7",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/65873d28-09ed-42c0-b2f6-b03f22f26493"
   },
   "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0": {
     "id": "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0",
@@ -383,6 +404,13 @@
     "title": "Object Storage in location hel1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
+  },
+  "https://status.hetzner.com/b520546b-075a-46ef-b9f9-a1b43478b989/0": {
+    "id": "https://status.hetzner.com/b520546b-075a-46ef-b9f9-a1b43478b989/0",
+    "updated": "2025-03-31T09:41:41+00:00",
+    "title": "Maintenance work on the DNS Public API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b520546b-075a-46ef-b9f9-a1b43478b989"
   },
   "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0": {
     "id": "https://status.hetzner.com/b6382a74-0fd9-4789-b997-65249187fbc7/0",

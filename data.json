@@ -97,6 +97,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2f8792c5-11e1-4377-988e-e3303269f7d0"
   },
+  "https://status.hetzner.com/35543eb4-622f-4f28-afee-999c38a2bfc0/0": {
+    "id": "https://status.hetzner.com/35543eb4-622f-4f28-afee-999c38a2bfc0/0",
+    "updated": "2025-04-01T08:22:56+00:00",
+    "title": "UPS function tests in NBG1-DC1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/35543eb4-622f-4f28-afee-999c38a2bfc0"
+  },
   "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0": {
     "id": "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0",
     "updated": "2025-02-12T15:54:12+00:00",
@@ -461,6 +468,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
   },
+  "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0": {
+    "id": "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0",
+    "updated": "2025-04-01T08:04:35+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d3c644c7-544a-4efb-8266-803e049797fc"
+  },
   "https://status.hetzner.com/d3fc5280-26d9-43e8-9e18-02108e28f847/0": {
     "id": "https://status.hetzner.com/d3fc5280-26d9-43e8-9e18-02108e28f847/0",
     "updated": "2025-03-05T17:06:23+00:00",
@@ -516,6 +530,13 @@
     "title": "Maintenance work on abuse system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/eb6ddd91-6f57-4c8c-a860-4e16974162fc"
+  },
+  "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0": {
+    "id": "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0",
+    "updated": "2025-04-01T08:24:03+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f"
   },
   "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0": {
     "id": "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0",

@@ -503,6 +503,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/da6b6285-b8a3-450f-b54b-19849ee9a09e"
   },
+  "https://status.hetzner.com/da6b6285-b8a3-450f-b54b-19849ee9a09e/1": {
+    "id": "https://status.hetzner.com/da6b6285-b8a3-450f-b54b-19849ee9a09e/1",
+    "updated": "2025-04-04T17:46:56+00:00",
+    "title": "Object Storage in location fsn1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/da6b6285-b8a3-450f-b54b-19849ee9a09e"
+  },
   "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0": {
     "id": "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0",
     "updated": "2024-12-25T17:03:52+00:00",

@@ -552,6 +552,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f"
   },
+  "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1": {
+    "id": "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1",
+    "updated": "2025-04-08T03:50:07+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC8",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/f2d8bee3-f758-43f7-9277-74407003eb89"
+  },
   "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0": {
     "id": "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0",
     "updated": "2025-03-13T14:19:35+00:00",

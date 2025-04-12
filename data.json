@@ -62,6 +62,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/19538b49-8b65-49e1-9831-99226dfb76ec"
   },
+  "https://status.hetzner.com/1bb9aa41-4ced-4b90-8035-3f4668e33fed/0": {
+    "id": "https://status.hetzner.com/1bb9aa41-4ced-4b90-8035-3f4668e33fed/0",
+    "updated": "2025-04-11T05:52:23+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1bb9aa41-4ced-4b90-8035-3f4668e33fed"
+  },
   "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
     "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
     "updated": "2025-03-24T06:23:38+00:00",
@@ -180,6 +187,13 @@
     "title": "Object Storage in location fsn1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/525b6f93-e8f9-4ffc-8c97-a4ddd379f29b"
+  },
+  "https://status.hetzner.com/528405e8-394f-41be-b452-42702e31d675/0": {
+    "id": "https://status.hetzner.com/528405e8-394f-41be-b452-42702e31d675/0",
+    "updated": "2025-04-11T07:02:05+00:00",
+    "title": "Maintenance UPS systems in NBG1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/528405e8-394f-41be-b452-42702e31d675"
   },
   "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0": {
     "id": "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0",
@@ -411,6 +425,13 @@
     "title": "Object Storage in location hel1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
+  },
+  "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0": {
+    "id": "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0",
+    "updated": "2025-04-11T12:01:50+00:00",
+    "title": "Limited support during the Easter holidays",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b4c1e084-5af3-4299-9c49-b9333480c77a"
   },
   "https://status.hetzner.com/b520546b-075a-46ef-b9f9-a1b43478b989/0": {
     "id": "https://status.hetzner.com/b520546b-075a-46ef-b9f9-a1b43478b989/0",

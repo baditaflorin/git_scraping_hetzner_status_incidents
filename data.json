@@ -62,6 +62,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/19538b49-8b65-49e1-9831-99226dfb76ec"
   },
+  "https://status.hetzner.com/1bb9a6cb-e3a8-4148-b890-080afdafeb4d/0": {
+    "id": "https://status.hetzner.com/1bb9a6cb-e3a8-4148-b890-080afdafeb4d/0",
+    "updated": "2025-04-14T06:21:08+00:00",
+    "title": "UPS function tests in NBG1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1bb9a6cb-e3a8-4148-b890-080afdafeb4d"
+  },
   "https://status.hetzner.com/1bb9aa41-4ced-4b90-8035-3f4668e33fed/0": {
     "id": "https://status.hetzner.com/1bb9aa41-4ced-4b90-8035-3f4668e33fed/0",
     "updated": "2025-04-11T05:52:23+00:00",
@@ -530,6 +537,13 @@
     "title": "Object Storage in location fsn1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/da6b6285-b8a3-450f-b54b-19849ee9a09e"
+  },
+  "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0": {
+    "id": "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0",
+    "updated": "2025-04-14T06:19:53+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/df76f13b-9869-4fcb-bc3a-ceb00e06f307"
   },
   "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0": {
     "id": "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0",

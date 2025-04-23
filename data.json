@@ -223,6 +223,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
   },
+  "https://status.hetzner.com/61d70033-debc-424a-a10d-1f2f30829aa0/0": {
+    "id": "https://status.hetzner.com/61d70033-debc-424a-a10d-1f2f30829aa0/0",
+    "updated": "2025-04-22T10:33:48+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC20",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/61d70033-debc-424a-a10d-1f2f30829aa0"
+  },
   "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0": {
     "id": "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0",
     "updated": "2025-03-31T07:38:08+00:00",
@@ -614,5 +621,12 @@
     "title": "Planned maintenance work on the Hetzner Forum",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/fdc2fdf2-fd8c-473c-9372-2679435789ce"
+  },
+  "https://status.hetzner.com/fe09f854-ddad-48fd-914c-d58015165517/0": {
+    "id": "https://status.hetzner.com/fe09f854-ddad-48fd-914c-d58015165517/0",
+    "updated": "2025-04-22T10:32:22+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC20",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/fe09f854-ddad-48fd-914c-d58015165517"
   }
 }

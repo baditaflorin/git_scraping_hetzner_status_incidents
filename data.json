@@ -181,6 +181,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/4647294b-876c-4698-858b-1706ccedeaa0"
   },
+  "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0": {
+    "id": "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0",
+    "updated": "2025-04-28T06:20:59+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/482e4f3d-c238-4a03-a062-8753ec19432d"
+  },
   "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0": {
     "id": "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0",
     "updated": "2025-02-18T07:25:44+00:00",
@@ -453,6 +460,20 @@
     "title": "Object Storage in location hel1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde"
+  },
+  "https://status.hetzner.com/afe2a803-9565-4158-862d-202f7296a2f9/0": {
+    "id": "https://status.hetzner.com/afe2a803-9565-4158-862d-202f7296a2f9/0",
+    "updated": "2025-04-28T06:23:09+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/afe2a803-9565-4158-862d-202f7296a2f9"
+  },
+  "https://status.hetzner.com/b201f19c-7fa2-4f1d-a1c9-650bfa2f0258/0": {
+    "id": "https://status.hetzner.com/b201f19c-7fa2-4f1d-a1c9-650bfa2f0258/0",
+    "updated": "2025-04-28T06:24:53+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b201f19c-7fa2-4f1d-a1c9-650bfa2f0258"
   },
   "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0": {
     "id": "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0",

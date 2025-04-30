@@ -111,6 +111,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2f8792c5-11e1-4377-988e-e3303269f7d0"
   },
+  "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0": {
+    "id": "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0",
+    "updated": "2025-04-29T11:01:10+00:00",
+    "title": "Limited support on 1 May 2025",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3323cf32-ea22-4f1e-9710-c95fc2cccdec"
+  },
   "https://status.hetzner.com/35543eb4-622f-4f28-afee-999c38a2bfc0/0": {
     "id": "https://status.hetzner.com/35543eb4-622f-4f28-afee-999c38a2bfc0/0",
     "updated": "2025-04-01T08:22:56+00:00",
@@ -438,6 +445,13 @@
     "updated": "2025-03-19T19:43:27+00:00",
     "title": "Maintenance at backbone connection between Frankfurt - Nuremberg",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/acd478be-b3e2-4a09-ace8-f792ebd37554"
+  },
+  "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/1": {
+    "id": "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/1",
+    "updated": "2025-04-29T05:43:40+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Nuremberg",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/acd478be-b3e2-4a09-ace8-f792ebd37554"
   },
   "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1": {

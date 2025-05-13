@@ -363,6 +363,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/90539492-6829-4d4a-afd3-c502537a1247"
   },
+  "https://status.hetzner.com/917b8e36-692d-4010-8932-d71c3cca3d3b/0": {
+    "id": "https://status.hetzner.com/917b8e36-692d-4010-8932-d71c3cca3d3b/0",
+    "updated": "2025-05-12T05:08:15+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC19",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/917b8e36-692d-4010-8932-d71c3cca3d3b"
+  },
   "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0": {
     "id": "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0",
     "updated": "2025-02-03T08:27:58+00:00",
@@ -662,6 +669,13 @@
     "updated": "2025-04-30T06:57:06+00:00",
     "title": "Maintenance emergency power system in FSN1-DC5",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f73bb25f-5959-4b00-8af2-a82a50cbd984"
+  },
+  "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/1": {
+    "id": "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/1",
+    "updated": "2025-05-12T07:31:50+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC5",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/f73bb25f-5959-4b00-8af2-a82a50cbd984"
   },
   "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0": {

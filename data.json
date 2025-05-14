@@ -195,6 +195,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/482e4f3d-c238-4a03-a062-8753ec19432d"
   },
+  "https://status.hetzner.com/4943d0dc-29c8-4e94-b103-0c6c85afa892/0": {
+    "id": "https://status.hetzner.com/4943d0dc-29c8-4e94-b103-0c6c85afa892/0",
+    "updated": "2025-05-13T09:55:40+00:00",
+    "title": "Maintenance on DHCP servers in HEL1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/4943d0dc-29c8-4e94-b103-0c6c85afa892"
+  },
   "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0": {
     "id": "https://status.hetzner.com/4988a894-2454-4327-a27f-01c5c85f6c58/0",
     "updated": "2025-02-18T07:25:44+00:00",
@@ -608,6 +615,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/da6b6285-b8a3-450f-b54b-19849ee9a09e"
   },
+  "https://status.hetzner.com/dbf5e37c-3547-4af8-85e6-7d2a4add40d6/0": {
+    "id": "https://status.hetzner.com/dbf5e37c-3547-4af8-85e6-7d2a4add40d6/0",
+    "updated": "2025-05-13T10:27:49+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC19",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/dbf5e37c-3547-4af8-85e6-7d2a4add40d6"
+  },
   "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0": {
     "id": "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0",
     "updated": "2025-04-14T06:19:53+00:00",
@@ -628,6 +642,13 @@
     "title": "Function tests on UPS and emergency power systems in FSN1-DC8",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/e29ff0bf-5f3c-4779-8692-8e3d286e5038"
+  },
+  "https://status.hetzner.com/e2af009d-c7ae-4d62-a6bb-8d6abd825bbe/0": {
+    "id": "https://status.hetzner.com/e2af009d-c7ae-4d62-a6bb-8d6abd825bbe/0",
+    "updated": "2025-05-13T09:56:47+00:00",
+    "title": "Maintenance on DHCP servers in FSN1 and NBG1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e2af009d-c7ae-4d62-a6bb-8d6abd825bbe"
   },
   "https://status.hetzner.com/e41394f6-e74e-4407-bd5d-ba591daf6ef3/0": {
     "id": "https://status.hetzner.com/e41394f6-e74e-4407-bd5d-ba591daf6ef3/0",

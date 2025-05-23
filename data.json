@@ -272,6 +272,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/675b75d8-8931-4d26-b8ff-7853d8e027cc"
   },
+  "https://status.hetzner.com/6c67af66-546b-4a09-9601-39a080eb9ee9/0": {
+    "id": "https://status.hetzner.com/6c67af66-546b-4a09-9601-39a080eb9ee9/0",
+    "updated": "2025-05-22T09:41:16+00:00",
+    "title": "Limited support on 29 May 2024",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6c67af66-546b-4a09-9601-39a080eb9ee9"
+  },
   "https://status.hetzner.com/6c80c51e-0391-47de-b62f-e24df1b27505/0": {
     "id": "https://status.hetzner.com/6c80c51e-0391-47de-b62f-e24df1b27505/0",
     "updated": "2025-02-24T10:52:45+00:00",
@@ -545,6 +552,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
   },
+  "https://status.hetzner.com/bb3d5491-a39c-48d7-b946-64195d8b175b/0": {
+    "id": "https://status.hetzner.com/bb3d5491-a39c-48d7-b946-64195d8b175b/0",
+    "updated": "2025-05-22T07:26:53+00:00",
+    "title": "Potential Restrictions when Moving Resources to other Projects",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/bb3d5491-a39c-48d7-b946-64195d8b175b"
+  },
   "https://status.hetzner.com/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9/0": {
     "id": "https://status.hetzner.com/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9/0",
     "updated": "2025-01-10T10:38:41+00:00",
@@ -594,6 +608,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
   },
+  "https://status.hetzner.com/d19bb3a0-1dca-465d-ab08-52d765253c91/0": {
+    "id": "https://status.hetzner.com/d19bb3a0-1dca-465d-ab08-52d765253c91/0",
+    "updated": "2025-05-22T12:37:20+00:00",
+    "title": "UPS function tests in FSN1-DC18",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d19bb3a0-1dca-465d-ab08-52d765253c91"
+  },
   "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0": {
     "id": "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0",
     "updated": "2025-04-01T08:04:35+00:00",
@@ -607,6 +628,13 @@
     "title": "Hetzner Accounts: 2FA Limitation",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d3fc5280-26d9-43e8-9e18-02108e28f847"
+  },
+  "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0": {
+    "id": "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0",
+    "updated": "2025-05-22T12:44:48+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC13",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5"
   },
   "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0": {
     "id": "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0",

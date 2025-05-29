@@ -251,6 +251,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
   },
+  "https://status.hetzner.com/61b86ea8-f992-46de-814e-60873fad6707/0": {
+    "id": "https://status.hetzner.com/61b86ea8-f992-46de-814e-60873fad6707/0",
+    "updated": "2025-05-28T12:04:36+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/61b86ea8-f992-46de-814e-60873fad6707"
+  },
   "https://status.hetzner.com/61d70033-debc-424a-a10d-1f2f30829aa0/0": {
     "id": "https://status.hetzner.com/61d70033-debc-424a-a10d-1f2f30829aa0/0",
     "updated": "2025-04-22T10:33:48+00:00",

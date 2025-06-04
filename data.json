@@ -62,6 +62,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/19538b49-8b65-49e1-9831-99226dfb76ec"
   },
+  "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0": {
+    "id": "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0",
+    "updated": "2025-06-03T17:11:41+00:00",
+    "title": "Cloud Backup and Snapshot Creation Delay",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1bad61c8-2ce7-4ee1-a532-7d84fcc68117"
+  },
   "https://status.hetzner.com/1bb9a6cb-e3a8-4148-b890-080afdafeb4d/0": {
     "id": "https://status.hetzner.com/1bb9a6cb-e3a8-4148-b890-080afdafeb4d/0",
     "updated": "2025-04-14T06:21:08+00:00",
@@ -404,6 +411,13 @@
     "title": "Function tests on UPS and emergency power systems in FSN1-DC19",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/917b8e36-692d-4010-8932-d71c3cca3d3b"
+  },
+  "https://status.hetzner.com/93d46123-0ec7-4f44-b0f1-030520dfff8d/0": {
+    "id": "https://status.hetzner.com/93d46123-0ec7-4f44-b0f1-030520dfff8d/0",
+    "updated": "2025-06-03T09:56:45+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/93d46123-0ec7-4f44-b0f1-030520dfff8d"
   },
   "https://status.hetzner.com/96cdb5f3-a4e5-49a1-a872-0906cdc10502/0": {
     "id": "https://status.hetzner.com/96cdb5f3-a4e5-49a1-a872-0906cdc10502/0",

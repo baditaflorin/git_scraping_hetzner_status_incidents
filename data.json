@@ -202,6 +202,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/4647294b-876c-4698-858b-1706ccedeaa0"
   },
+  "https://status.hetzner.com/47148b5b-b0d4-40b1-abc2-50ec8f8e3176/0": {
+    "id": "https://status.hetzner.com/47148b5b-b0d4-40b1-abc2-50ec8f8e3176/0",
+    "updated": "2025-06-04T13:31:29+00:00",
+    "title": "Maintenance on WiFi in Falkenstein",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/47148b5b-b0d4-40b1-abc2-50ec8f8e3176"
+  },
   "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0": {
     "id": "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0",
     "updated": "2025-04-28T06:20:59+00:00",

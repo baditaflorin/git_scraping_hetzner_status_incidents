@@ -804,6 +804,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f"
   },
+  "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0": {
+    "id": "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0",
+    "updated": "2025-06-18T09:14:50+00:00",
+    "title": "Storage Boxes available in Hetzner Console in the future",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f06ffe20-557f-4c7b-ac43-25ce40d96e5c"
+  },
   "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1": {
     "id": "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1",
     "updated": "2025-04-08T03:50:07+00:00",

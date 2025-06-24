@@ -34,6 +34,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
   },
+  "https://status.hetzner.com/06cd98f7-182d-4608-9e03-1b83c301c587/0": {
+    "id": "https://status.hetzner.com/06cd98f7-182d-4608-9e03-1b83c301c587/0",
+    "updated": "2025-06-23T11:47:21+00:00",
+    "title": "Maintenance on WiFi in Nuremberg",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/06cd98f7-182d-4608-9e03-1b83c301c587"
+  },
   "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0": {
     "id": "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0",
     "updated": "2025-03-13T14:17:09+00:00",
@@ -356,6 +363,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/7a0e91be-15d3-44be-af94-d866fcde272c"
   },
+  "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0": {
+    "id": "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0",
+    "updated": "2025-06-23T05:03:42+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7dde1419-5eb4-4cf9-98c0-57651d53553d"
+  },
   "https://status.hetzner.com/7e2568be-7eb9-4ecf-8a96-107086f758af/0": {
     "id": "https://status.hetzner.com/7e2568be-7eb9-4ecf-8a96-107086f758af/0",
     "updated": "2025-04-24T12:47:04+00:00",
@@ -453,6 +467,13 @@
     "title": "Limited support on 9 June 2025",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/9575f9ae-34ba-43a0-859b-bee7c2d6924a"
+  },
+  "https://status.hetzner.com/95baf75c-7869-4247-a9aa-92a80e6f9acd/0": {
+    "id": "https://status.hetzner.com/95baf75c-7869-4247-a9aa-92a80e6f9acd/0",
+    "updated": "2025-06-23T15:01:00+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/95baf75c-7869-4247-a9aa-92a80e6f9acd"
   },
   "https://status.hetzner.com/96cdb5f3-a4e5-49a1-a872-0906cdc10502/0": {
     "id": "https://status.hetzner.com/96cdb5f3-a4e5-49a1-a872-0906cdc10502/0",

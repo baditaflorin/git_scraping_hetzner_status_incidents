@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/244996c9-e8c4-4e0a-a1a8-97c082a8c763"
   },
+  "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0": {
+    "id": "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0",
+    "updated": "2025-06-24T10:24:13+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/264765d4-260d-446e-98b0-45f3e81be88d"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",
@@ -320,6 +327,13 @@
     "title": "Maintenance work on billing functions and consumption data",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/675b75d8-8931-4d26-b8ff-7853d8e027cc"
+  },
+  "https://status.hetzner.com/684200e7-9dce-4721-bbcf-fcd57e42354d/0": {
+    "id": "https://status.hetzner.com/684200e7-9dce-4721-bbcf-fcd57e42354d/0",
+    "updated": "2025-06-24T08:20:53+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/684200e7-9dce-4721-bbcf-fcd57e42354d"
   },
   "https://status.hetzner.com/6bec8fe6-51ca-4adf-ab2f-bc2164fd3056/0": {
     "id": "https://status.hetzner.com/6bec8fe6-51ca-4adf-ab2f-bc2164fd3056/0",
@@ -727,6 +741,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5"
   },
+  "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0": {
+    "id": "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0",
+    "updated": "2025-06-24T10:27:11+00:00",
+    "title": "UPS function tests in NBG1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d6c85f50-371a-417f-8f75-74d010b7e379"
+  },
   "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0": {
     "id": "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0",
     "updated": "2025-03-10T12:28:39+00:00",
@@ -880,6 +901,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f8d70834-c057-475a-9254-fb785d0e97eb"
+  },
+  "https://status.hetzner.com/f951472a-f354-427e-9eed-81c99fe44d1a/0": {
+    "id": "https://status.hetzner.com/f951472a-f354-427e-9eed-81c99fe44d1a/0",
+    "updated": "2025-06-24T08:22:50+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f951472a-f354-427e-9eed-81c99fe44d1a"
   },
   "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
     "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",

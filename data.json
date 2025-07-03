@@ -139,6 +139,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2e715748-fddd-427b-a07b-b34a5a9edee3"
   },
+  "https://status.hetzner.com/2ed0fb94-bd93-47b4-b57f-7518eb1398fd/0": {
+    "id": "https://status.hetzner.com/2ed0fb94-bd93-47b4-b57f-7518eb1398fd/0",
+    "updated": "2025-07-02T05:58:15+00:00",
+    "title": "Maintenance telephone infrastructure - NBG1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2ed0fb94-bd93-47b4-b57f-7518eb1398fd"
+  },
   "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0": {
     "id": "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0",
     "updated": "2025-01-15T06:02:24+00:00",
@@ -279,6 +286,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/528405e8-394f-41be-b452-42702e31d675"
   },
+  "https://status.hetzner.com/57673b71-706d-4d18-b18d-fcc4677b4329/0": {
+    "id": "https://status.hetzner.com/57673b71-706d-4d18-b18d-fcc4677b4329/0",
+    "updated": "2025-07-02T12:29:55+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/57673b71-706d-4d18-b18d-fcc4677b4329"
+  },
   "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0": {
     "id": "https://status.hetzner.com/5a545671-1506-4ad1-952d-725cc407f697/0",
     "updated": "2024-12-18T05:31:33+00:00",
@@ -355,6 +369,13 @@
     "title": "Discontinued support for operating system Ubuntu 20.04",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6c80c51e-0391-47de-b62f-e24df1b27505"
+  },
+  "https://status.hetzner.com/6dae6517-b2ab-4b47-96d3-79dc238b9934/0": {
+    "id": "https://status.hetzner.com/6dae6517-b2ab-4b47-96d3-79dc238b9934/0",
+    "updated": "2025-07-02T05:58:53+00:00",
+    "title": "Maintenance work on the jobs portal (career.hetzner.com)",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6dae6517-b2ab-4b47-96d3-79dc238b9934"
   },
   "https://status.hetzner.com/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a/0": {
     "id": "https://status.hetzner.com/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a/0",
@@ -446,6 +467,13 @@
     "title": "Maintenance work on the jobs portal (career.hetzner.com)",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8856345f-8dfb-42c5-a9f0-4665fc12d3a7"
+  },
+  "https://status.hetzner.com/886c854e-f037-48f5-8cbe-6e7aa736c440/0": {
+    "id": "https://status.hetzner.com/886c854e-f037-48f5-8cbe-6e7aa736c440/0",
+    "updated": "2025-07-02T09:51:23+00:00",
+    "title": "Maintenance on NTP server ntp1.hetzner.com",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/886c854e-f037-48f5-8cbe-6e7aa736c440"
   },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
@@ -566,6 +594,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a7003149-978f-4df1-947b-628168cf3fc5"
   },
+  "https://status.hetzner.com/a76044d2-0feb-40c6-a020-0171e18b77c0/0": {
+    "id": "https://status.hetzner.com/a76044d2-0feb-40c6-a020-0171e18b77c0/0",
+    "updated": "2025-07-02T09:47:05+00:00",
+    "title": "Maintenance work on Windows Update Mirror",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a76044d2-0feb-40c6-a020-0171e18b77c0"
+  },
   "https://status.hetzner.com/a8924d8c-dd1a-4d79-aacf-9cfce7c429fd/0": {
     "id": "https://status.hetzner.com/a8924d8c-dd1a-4d79-aacf-9cfce7c429fd/0",
     "updated": "2025-03-26T05:00:42+00:00",
@@ -677,6 +712,13 @@
     "title": "Maintenance work on the remote console system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/bcf1e27a-cbc1-4140-9b04-b93df0c0a8b9"
+  },
+  "https://status.hetzner.com/be4f3d35-f2be-4893-a20c-62c355a8169b/0": {
+    "id": "https://status.hetzner.com/be4f3d35-f2be-4893-a20c-62c355a8169b/0",
+    "updated": "2025-07-02T09:44:16+00:00",
+    "title": "Maintenance on speed test at the NBG1 location",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/be4f3d35-f2be-4893-a20c-62c355a8169b"
   },
   "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0": {
     "id": "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0",

@@ -132,6 +132,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/264765d4-260d-446e-98b0-45f3e81be88d"
   },
+  "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1": {
+    "id": "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1",
+    "updated": "2025-07-04T18:54:01+00:00",
+    "title": "Elevated error rate during Rescue system activation on root servers",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/2a981d6d-9c96-4976-b2ac-36e930f61222"
+  },
   "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0": {
     "id": "https://status.hetzner.com/2e715748-fddd-427b-a07b-b34a5a9edee3/0",
     "updated": "2024-07-08T06:54:37+00:00",
@@ -460,6 +467,13 @@
     "title": "Maintenance work on power supply systems in HEL1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/852c9966-3a1f-4a56-926b-5a10064b2d5a"
+  },
+  "https://status.hetzner.com/85d49ac4-5ed8-4458-a0ef-8b8d7fd1a73b/0": {
+    "id": "https://status.hetzner.com/85d49ac4-5ed8-4458-a0ef-8b8d7fd1a73b/0",
+    "updated": "2025-07-04T12:09:28+00:00",
+    "title": "Limitations when Creating Support Tickets for Cloud Servers",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/85d49ac4-5ed8-4458-a0ef-8b8d7fd1a73b"
   },
   "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0": {
     "id": "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0",

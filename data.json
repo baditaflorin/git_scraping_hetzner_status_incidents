@@ -538,6 +538,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/917b8e36-692d-4010-8932-d71c3cca3d3b"
   },
+  "https://status.hetzner.com/935cdd9d-181a-4458-a0ab-e7946da626ec/0": {
+    "id": "https://status.hetzner.com/935cdd9d-181a-4458-a0ab-e7946da626ec/0",
+    "updated": "2025-07-08T12:38:51+00:00",
+    "title": "Maintenance work Hetzner konsoleH",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/935cdd9d-181a-4458-a0ab-e7946da626ec"
+  },
   "https://status.hetzner.com/93d46123-0ec7-4f44-b0f1-030520dfff8d/0": {
     "id": "https://status.hetzner.com/93d46123-0ec7-4f44-b0f1-030520dfff8d/0",
     "updated": "2025-06-03T09:56:45+00:00",

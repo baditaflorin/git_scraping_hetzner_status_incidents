@@ -524,6 +524,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/886c854e-f037-48f5-8cbe-6e7aa736c440"
   },
+  "https://status.hetzner.com/8becfe86-b077-4983-b7d0-af81b4fc1496/4": {
+    "id": "https://status.hetzner.com/8becfe86-b077-4983-b7d0-af81b4fc1496/4",
+    "updated": "2025-07-15T13:56:52+00:00",
+    "title": "Load balancer: There are network problems at the LB host nodes in FSN1 and HEL1.",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/8becfe86-b077-4983-b7d0-af81b4fc1496"
+  },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
     "updated": "2024-12-05T07:08:06+00:00",
@@ -635,6 +642,13 @@
     "title": "Function tests on UPS and emergency power systems in FSN1-DC7",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4337e2f-3b6a-4e5b-98d6-865f43b87c80"
+  },
+  "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/0": {
+    "id": "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/0",
+    "updated": "2025-07-15T14:08:07+00:00",
+    "title": "Cloud Backup Creation Delay in Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a4a436a9-702d-4a12-bd9a-68b8186ec2dd"
   },
   "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0": {
     "id": "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0",

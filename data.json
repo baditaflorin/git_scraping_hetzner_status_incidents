@@ -90,6 +90,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/15ef7be8-d264-441d-9844-a6a9ff7a37dc"
   },
+  "https://status.hetzner.com/17623513-9684-4c73-85f8-1b3356b81ba9/0": {
+    "id": "https://status.hetzner.com/17623513-9684-4c73-85f8-1b3356b81ba9/0",
+    "updated": "2025-07-17T00:25:38+00:00",
+    "title": "Fault report on Cloud API Server Resources",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/17623513-9684-4c73-85f8-1b3356b81ba9"
+  },
   "https://status.hetzner.com/19538b49-8b65-49e1-9831-99226dfb76ec/0": {
     "id": "https://status.hetzner.com/19538b49-8b65-49e1-9831-99226dfb76ec/0",
     "updated": "2025-03-31T07:39:32+00:00",
@@ -480,6 +487,13 @@
     "updated": "2025-07-01T12:22:04+00:00",
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/80943e32-2f9d-4c94-85b6-6cac403ae7b0"
+  },
+  "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/1": {
+    "id": "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/1",
+    "updated": "2025-07-16T10:40:53+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/80943e32-2f9d-4c94-85b6-6cac403ae7b0"
   },
   "https://status.hetzner.com/8152e721-53c3-41a8-9f91-918ec48237bd/0": {
@@ -922,6 +936,13 @@
     "title": "Maintenance UPS systems in FSN1-DC19",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/dbf5e37c-3547-4af8-85e6-7d2a4add40d6"
+  },
+  "https://status.hetzner.com/de84772c-5bfa-4888-83f6-7c8bf9b99d9c/0": {
+    "id": "https://status.hetzner.com/de84772c-5bfa-4888-83f6-7c8bf9b99d9c/0",
+    "updated": "2025-07-16T12:12:11+00:00",
+    "title": "Maintenance work regarding .de/.at/.com/.net domains",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/de84772c-5bfa-4888-83f6-7c8bf9b99d9c"
   },
   "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0": {
     "id": "https://status.hetzner.com/df76f13b-9869-4fcb-bc3a-ceb00e06f307/0",

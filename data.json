@@ -454,6 +454,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7c3e8e37-18ed-4d00-9831-6b4262e15a7e"
   },
+  "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0": {
+    "id": "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0",
+    "updated": "2025-07-21T08:03:02+00:00",
+    "title": "Object Storage in location hel1 degraded",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7d30ca69-5914-4747-8e41-c27f7edc8310"
+  },
   "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0": {
     "id": "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0",
     "updated": "2025-06-23T05:03:42+00:00",
@@ -502,6 +509,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/80943e32-2f9d-4c94-85b6-6cac403ae7b0"
+  },
+  "https://status.hetzner.com/80ea9e23-176e-4a24-bd8b-a3c50d345ee4/0": {
+    "id": "https://status.hetzner.com/80ea9e23-176e-4a24-bd8b-a3c50d345ee4/0",
+    "updated": "2025-07-21T12:58:36+00:00",
+    "title": "Maintenance work Hetzner konsoleH",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/80ea9e23-176e-4a24-bd8b-a3c50d345ee4"
   },
   "https://status.hetzner.com/8152e721-53c3-41a8-9f91-918ec48237bd/0": {
     "id": "https://status.hetzner.com/8152e721-53c3-41a8-9f91-918ec48237bd/0",

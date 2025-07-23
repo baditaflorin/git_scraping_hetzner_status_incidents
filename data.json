@@ -552,6 +552,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8856345f-8dfb-42c5-a9f0-4665fc12d3a7"
   },
+  "https://status.hetzner.com/885aa220-e2ff-4cdd-8f3d-37c1355af8e3/0": {
+    "id": "https://status.hetzner.com/885aa220-e2ff-4cdd-8f3d-37c1355af8e3/0",
+    "updated": "2025-07-22T06:23:17+00:00",
+    "title": "Function tests on UPS and emergency power systems in HEL1-DC9",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/885aa220-e2ff-4cdd-8f3d-37c1355af8e3"
+  },
   "https://status.hetzner.com/886c854e-f037-48f5-8cbe-6e7aa736c440/0": {
     "id": "https://status.hetzner.com/886c854e-f037-48f5-8cbe-6e7aa736c440/0",
     "updated": "2025-07-02T09:51:23+00:00",
@@ -586,6 +593,13 @@
     "title": "Function tests on UPS and emergency power systems in FSN1-DC5",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/90539492-6829-4d4a-afd3-c502537a1247"
+  },
+  "https://status.hetzner.com/90af9659-5e67-415b-aad6-039bfa89fe17/0": {
+    "id": "https://status.hetzner.com/90af9659-5e67-415b-aad6-039bfa89fe17/0",
+    "updated": "2025-07-22T06:24:07+00:00",
+    "title": "Function tests on UPS and emergency power systems in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/90af9659-5e67-415b-aad6-039bfa89fe17"
   },
   "https://status.hetzner.com/917b8e36-692d-4010-8932-d71c3cca3d3b/0": {
     "id": "https://status.hetzner.com/917b8e36-692d-4010-8932-d71c3cca3d3b/0",
@@ -690,6 +704,13 @@
     "updated": "2025-07-18T08:32:20+00:00",
     "title": "Cloud Backup Creation Delay",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/a4a436a9-702d-4a12-bd9a-68b8186ec2dd"
+  },
+  "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/2": {
+    "id": "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/2",
+    "updated": "2025-07-22T08:29:23+00:00",
+    "title": "Cloud Backup Creation Delay",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/a4a436a9-702d-4a12-bd9a-68b8186ec2dd"
   },
   "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0": {

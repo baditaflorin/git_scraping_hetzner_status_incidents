@@ -713,6 +713,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/a4a436a9-702d-4a12-bd9a-68b8186ec2dd"
   },
+  "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/3": {
+    "id": "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/3",
+    "updated": "2025-07-25T15:12:36+00:00",
+    "title": "Cloud Backup Creation Delay [HEL1]",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/a4a436a9-702d-4a12-bd9a-68b8186ec2dd"
+  },
   "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0": {
     "id": "https://status.hetzner.com/a4f29523-e2ba-4158-aad7-a1051cc75dd3/0",
     "updated": "2024-12-16T07:05:21+00:00",

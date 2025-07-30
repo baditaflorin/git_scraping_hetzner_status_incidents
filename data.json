@@ -195,6 +195,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/31138c45-db68-4416-829b-0fe41d114b88"
   },
+  "https://status.hetzner.com/319b6d6b-9ef8-457f-a483-01fb785596c4/0": {
+    "id": "https://status.hetzner.com/319b6d6b-9ef8-457f-a483-01fb785596c4/0",
+    "updated": "2025-07-29T06:02:54+00:00",
+    "title": "Maintenance work on power supply systems in FSN1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/319b6d6b-9ef8-457f-a483-01fb785596c4"
+  },
   "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0": {
     "id": "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0",
     "updated": "2025-04-29T11:01:10+00:00",

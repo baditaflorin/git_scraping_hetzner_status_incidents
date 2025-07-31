@@ -83,6 +83,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/143dda0f-d22e-4636-9588-13ef0ffb004f"
   },
+  "https://status.hetzner.com/14f67fff-09f0-4512-888d-aec72c732473/0": {
+    "id": "https://status.hetzner.com/14f67fff-09f0-4512-888d-aec72c732473/0",
+    "updated": "2025-07-30T05:57:28+00:00",
+    "title": "Maintenance work on power supply systems in HEL1-DC9",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/14f67fff-09f0-4512-888d-aec72c732473"
+  },
   "https://status.hetzner.com/15ef7be8-d264-441d-9844-a6a9ff7a37dc/0": {
     "id": "https://status.hetzner.com/15ef7be8-d264-441d-9844-a6a9ff7a37dc/0",
     "updated": "2025-06-05T21:49:12+00:00",

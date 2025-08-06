@@ -594,6 +594,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/8becfe86-b077-4983-b7d0-af81b4fc1496"
   },
+  "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0": {
+    "id": "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0",
+    "updated": "2025-08-05T04:49:23+00:00",
+    "title": "UPS function tests in NBG1-DC6",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8cdee1d2-23d3-453d-851f-96840e1077a0"
+  },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
     "updated": "2024-12-05T07:08:06+00:00",
@@ -978,6 +985,13 @@
     "title": "UPS function tests in NBG1-DC2",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d6c85f50-371a-417f-8f75-74d010b7e379"
+  },
+  "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0": {
+    "id": "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0",
+    "updated": "2025-08-05T04:48:15+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC6",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d96e0f78-9845-47b8-9ffa-864b69b1dcb0"
   },
   "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0": {
     "id": "https://status.hetzner.com/da33d69e-b7d1-41f2-afdf-767a1f608e20/0",

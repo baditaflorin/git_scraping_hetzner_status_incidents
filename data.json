@@ -762,6 +762,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4f29523-e2ba-4158-aad7-a1051cc75dd3"
   },
+  "https://status.hetzner.com/a5b8778e-06ff-47ba-acf6-3f3fc8b8adce/0": {
+    "id": "https://status.hetzner.com/a5b8778e-06ff-47ba-acf6-3f3fc8b8adce/0",
+    "updated": "2025-08-07T09:36:34+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC13",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a5b8778e-06ff-47ba-acf6-3f3fc8b8adce"
+  },
   "https://status.hetzner.com/a6ad7f92-0e35-4a50-9724-dad962224124/0": {
     "id": "https://status.hetzner.com/a6ad7f92-0e35-4a50-9724-dad962224124/0",
     "updated": "2025-05-21T13:50:03+00:00",

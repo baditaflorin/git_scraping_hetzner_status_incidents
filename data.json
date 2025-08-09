@@ -146,6 +146,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/1bb9aa41-4ced-4b90-8035-3f4668e33fed"
   },
+  "https://status.hetzner.com/1bcc9a00-b829-4e53-a09e-e56834e2b35f/0": {
+    "id": "https://status.hetzner.com/1bcc9a00-b829-4e53-a09e-e56834e2b35f/0",
+    "updated": "2025-08-08T11:04:16+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC17",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1bcc9a00-b829-4e53-a09e-e56834e2b35f"
+  },
   "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
     "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
     "updated": "2025-03-24T06:23:38+00:00",
@@ -369,6 +376,13 @@
     "title": "Maintenance work on power supply systems in HEL1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5b48dd93-8353-4715-8350-96a78a987588"
+  },
+  "https://status.hetzner.com/5b7c6d91-f778-427a-b275-b00dfa29139f/0": {
+    "id": "https://status.hetzner.com/5b7c6d91-f778-427a-b275-b00dfa29139f/0",
+    "updated": "2025-08-08T11:02:40+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC16",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5b7c6d91-f778-427a-b275-b00dfa29139f"
   },
   "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1": {
     "id": "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1",
@@ -677,6 +691,13 @@
     "title": "Maintenance work on abuse system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/96cdb5f3-a4e5-49a1-a872-0906cdc10502"
+  },
+  "https://status.hetzner.com/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691/0": {
+    "id": "https://status.hetzner.com/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691/0",
+    "updated": "2025-08-08T12:07:53+00:00",
+    "title": "Replacement of power supply components and UPS in FSN1-DC6",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691"
   },
   "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0": {
     "id": "https://status.hetzner.com/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3/0",
@@ -1097,6 +1118,13 @@
     "title": "UPS function tests in FSN1-DC11",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e897a42c-ed2c-4a3e-8be1-724041626c32"
+  },
+  "https://status.hetzner.com/e9ece948-cd13-478e-9262-7a14f6427257/0": {
+    "id": "https://status.hetzner.com/e9ece948-cd13-478e-9262-7a14f6427257/0",
+    "updated": "2025-08-08T17:58:49+00:00",
+    "title": "Object Storage in location FSN1 degraded",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e9ece948-cd13-478e-9262-7a14f6427257"
   },
   "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0": {
     "id": "https://status.hetzner.com/eb6ddd91-6f57-4c8c-a860-4e16974162fc/0",

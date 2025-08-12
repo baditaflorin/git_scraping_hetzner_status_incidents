@@ -804,6 +804,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a7003149-978f-4df1-947b-628168cf3fc5"
   },
+  "https://status.hetzner.com/a70a45e6-ba07-4397-bb48-8f5863a2c787/0": {
+    "id": "https://status.hetzner.com/a70a45e6-ba07-4397-bb48-8f5863a2c787/0",
+    "updated": "2025-08-11T09:32:05+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a70a45e6-ba07-4397-bb48-8f5863a2c787"
+  },
   "https://status.hetzner.com/a76044d2-0feb-40c6-a020-0171e18b77c0/0": {
     "id": "https://status.hetzner.com/a76044d2-0feb-40c6-a020-0171e18b77c0/0",
     "updated": "2025-07-02T09:47:05+00:00",
@@ -978,6 +985,13 @@
     "title": "General Network maintenance from 2024/11/4 to 2024/12/6",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
+  },
+  "https://status.hetzner.com/d17de0fd-4cf1-4473-9567-c20045263be7/0": {
+    "id": "https://status.hetzner.com/d17de0fd-4cf1-4473-9567-c20045263be7/0",
+    "updated": "2025-08-11T19:34:23+00:00",
+    "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d17de0fd-4cf1-4473-9567-c20045263be7"
   },
   "https://status.hetzner.com/d19bb3a0-1dca-465d-ab08-52d765253c91/0": {
     "id": "https://status.hetzner.com/d19bb3a0-1dca-465d-ab08-52d765253c91/0",

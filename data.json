@@ -1168,6 +1168,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/f2d8bee3-f758-43f7-9277-74407003eb89"
   },
+  "https://status.hetzner.com/f4fdba25-1571-4c16-8d59-a09189374b50/0": {
+    "id": "https://status.hetzner.com/f4fdba25-1571-4c16-8d59-a09189374b50/0",
+    "updated": "2025-08-12T10:20:39+00:00",
+    "title": "Private Networks DHCP bug fix now live",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f4fdba25-1571-4c16-8d59-a09189374b50"
+  },
   "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0": {
     "id": "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0",
     "updated": "2025-04-30T06:57:06+00:00",

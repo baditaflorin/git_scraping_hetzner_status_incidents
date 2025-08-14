@@ -986,6 +986,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d01c925c-dfa1-4da5-a9de-5475d83e04bd"
   },
+  "https://status.hetzner.com/d06e24b3-eb7b-47b0-90bc-ffcf62394550/1": {
+    "id": "https://status.hetzner.com/d06e24b3-eb7b-47b0-90bc-ffcf62394550/1",
+    "updated": "2025-08-13T22:15:03+00:00",
+    "title": "Cloud Volume Creation Delay",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/d06e24b3-eb7b-47b0-90bc-ffcf62394550"
+  },
   "https://status.hetzner.com/d17de0fd-4cf1-4473-9567-c20045263be7/0": {
     "id": "https://status.hetzner.com/d17de0fd-4cf1-4473-9567-c20045263be7/0",
     "updated": "2025-08-11T19:34:23+00:00",

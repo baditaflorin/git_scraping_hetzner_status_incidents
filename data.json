@@ -1140,6 +1140,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e4d99f20-456c-43df-9395-4fe8cac2cdad"
   },
+  "https://status.hetzner.com/e5c061ac-62e1-4e18-b679-27baed28ae0f/0": {
+    "id": "https://status.hetzner.com/e5c061ac-62e1-4e18-b679-27baed28ae0f/0",
+    "updated": "2025-08-15T12:51:38+00:00",
+    "title": "Maintenance work on billing functions and consumption data",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e5c061ac-62e1-4e18-b679-27baed28ae0f"
+  },
   "https://status.hetzner.com/e897a42c-ed2c-4a3e-8be1-724041626c32/0": {
     "id": "https://status.hetzner.com/e897a42c-ed2c-4a3e-8be1-724041626c32/0",
     "updated": "2025-02-21T11:13:46+00:00",

@@ -930,6 +930,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
   },
+  "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0": {
+    "id": "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0",
+    "updated": "2025-08-20T09:46:27+00:00",
+    "title": "Maintenance work on Object Storage in FSN1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/bb065eaa-a51a-4790-8b37-2e0a95e14534"
+  },
   "https://status.hetzner.com/bb3d5491-a39c-48d7-b946-64195d8b175b/0": {
     "id": "https://status.hetzner.com/bb3d5491-a39c-48d7-b946-64195d8b175b/0",
     "updated": "2025-05-22T07:26:53+00:00",

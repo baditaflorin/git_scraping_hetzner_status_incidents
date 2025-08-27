@@ -916,6 +916,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b3d5b643-cc2a-4be4-b1b3-5ebfa20c870f"
   },
+  "https://status.hetzner.com/b3d5b643-cc2a-4be4-b1b3-5ebfa20c870f/1": {
+    "id": "https://status.hetzner.com/b3d5b643-cc2a-4be4-b1b3-5ebfa20c870f/1",
+    "updated": "2025-08-26T04:41:48+00:00",
+    "title": "Replacement of power supply components and UPS in FSN1-DC6",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/b3d5b643-cc2a-4be4-b1b3-5ebfa20c870f"
+  },
   "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0": {
     "id": "https://status.hetzner.com/b4c1e084-5af3-4299-9c49-b9333480c77a/0",
     "updated": "2025-04-11T12:01:50+00:00",

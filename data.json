@@ -1175,6 +1175,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e897a42c-ed2c-4a3e-8be1-724041626c32"
   },
+  "https://status.hetzner.com/e8a57b83-2aac-4ab2-bef6-8a4d04557624/0": {
+    "id": "https://status.hetzner.com/e8a57b83-2aac-4ab2-bef6-8a4d04557624/0",
+    "updated": "2025-09-01T07:49:21+00:00",
+    "title": "Cloud Automatic Backup Creation Delay",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e8a57b83-2aac-4ab2-bef6-8a4d04557624"
+  },
   "https://status.hetzner.com/e9ece948-cd13-478e-9262-7a14f6427257/0": {
     "id": "https://status.hetzner.com/e9ece948-cd13-478e-9262-7a14f6427257/0",
     "updated": "2025-08-08T17:58:49+00:00",

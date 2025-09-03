@@ -223,6 +223,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/319b6d6b-9ef8-457f-a483-01fb785596c4"
   },
+  "https://status.hetzner.com/32cb81b0-8755-477f-b4b2-44e2d2ef2821/0": {
+    "id": "https://status.hetzner.com/32cb81b0-8755-477f-b4b2-44e2d2ef2821/0",
+    "updated": "2025-09-02T09:03:23+00:00",
+    "title": "Maintenance of Cloud Firewalls",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/32cb81b0-8755-477f-b4b2-44e2d2ef2821"
+  },
   "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0": {
     "id": "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0",
     "updated": "2025-04-29T11:01:10+00:00",
@@ -271,6 +278,13 @@
     "title": "Fault report for EPS systems in FSN1-DC6",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/3adf8066-3e45-493f-9123-f44f7598bd18"
+  },
+  "https://status.hetzner.com/3b91272b-d95a-4fca-87e5-dbfb50acb8e0/0": {
+    "id": "https://status.hetzner.com/3b91272b-d95a-4fca-87e5-dbfb50acb8e0/0",
+    "updated": "2025-09-02T05:19:49+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3b91272b-d95a-4fca-87e5-dbfb50acb8e0"
   },
   "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
     "id": "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0",
@@ -705,6 +719,13 @@
     "title": "Maintenance work on abuse system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/96cdb5f3-a4e5-49a1-a872-0906cdc10502"
+  },
+  "https://status.hetzner.com/9b2df177-537d-4914-b8e2-6349000901f3/0": {
+    "id": "https://status.hetzner.com/9b2df177-537d-4914-b8e2-6349000901f3/0",
+    "updated": "2025-09-02T05:22:57+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC11",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/9b2df177-537d-4914-b8e2-6349000901f3"
   },
   "https://status.hetzner.com/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691/0": {
     "id": "https://status.hetzner.com/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691/0",

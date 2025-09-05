@@ -398,6 +398,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5b7c6d91-f778-427a-b275-b00dfa29139f"
   },
+  "https://status.hetzner.com/5e73c069-e679-4711-a2be-e80f158ecc7f/0": {
+    "id": "https://status.hetzner.com/5e73c069-e679-4711-a2be-e80f158ecc7f/0",
+    "updated": "2025-09-04T08:57:53+00:00",
+    "title": "Maintenance telephone infrastructure - HEL1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5e73c069-e679-4711-a2be-e80f158ecc7f"
+  },
   "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1": {
     "id": "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1",
     "updated": "2025-02-07T16:29:53+00:00",
@@ -873,6 +880,13 @@
     "title": "Replacement of power supply components and UPS in FSN1-DC4",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/a8e3a0c1-03bc-4cf2-9cbe-f4364cddd358"
+  },
+  "https://status.hetzner.com/aa3eaafd-ae3f-4bc3-b6d2-67d2437f0d3e/0": {
+    "id": "https://status.hetzner.com/aa3eaafd-ae3f-4bc3-b6d2-67d2437f0d3e/0",
+    "updated": "2025-09-04T08:57:22+00:00",
+    "title": "Maintenance telephone infrastructure - FSN1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/aa3eaafd-ae3f-4bc3-b6d2-67d2437f0d3e"
   },
   "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1": {
     "id": "https://status.hetzner.com/aa5ce33b-faa5-4fd0-9782-fde43cd270cf/1",

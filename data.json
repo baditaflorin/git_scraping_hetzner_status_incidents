@@ -6,6 +6,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/001fcae3-aeec-4638-8436-a7eced38325e"
   },
+  "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0": {
+    "id": "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0",
+    "updated": "2025-09-09T10:51:25+00:00",
+    "title": "Maintenance work on the ticket system - FSN1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/020993dc-69a9-4275-8301-5dffe33e1757"
+  },
   "https://status.hetzner.com/02b7ce0a-1364-4956-ad13-1d99af8f9cb7/0": {
     "id": "https://status.hetzner.com/02b7ce0a-1364-4956-ad13-1d99af8f9cb7/0",
     "updated": "2025-06-16T05:12:40+00:00",
@@ -228,6 +235,13 @@
     "updated": "2025-09-02T09:03:23+00:00",
     "title": "Maintenance of Cloud Firewalls",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/32cb81b0-8755-477f-b4b2-44e2d2ef2821"
+  },
+  "https://status.hetzner.com/32cb81b0-8755-477f-b4b2-44e2d2ef2821/1": {
+    "id": "https://status.hetzner.com/32cb81b0-8755-477f-b4b2-44e2d2ef2821/1",
+    "updated": "2025-09-09T11:38:54+00:00",
+    "title": "Maintenance of Cloud Firewalls",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/32cb81b0-8755-477f-b4b2-44e2d2ef2821"
   },
   "https://status.hetzner.com/3323cf32-ea22-4f1e-9710-c95fc2cccdec/0": {
@@ -1020,6 +1034,13 @@
     "title": "Maintenance on speed test at the NBG1 location",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/be4f3d35-f2be-4893-a20c-62c355a8169b"
+  },
+  "https://status.hetzner.com/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce/0": {
+    "id": "https://status.hetzner.com/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce/0",
+    "updated": "2025-09-09T11:03:36+00:00",
+    "title": "Maintenance work on the ticket system - HEL1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce"
   },
   "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0": {
     "id": "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0",

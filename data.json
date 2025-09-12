@@ -41,6 +41,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/03cc5576-9a8f-454f-bb4d-652b52f882ef"
   },
+  "https://status.hetzner.com/065345c7-d421-4da0-9d88-19f104e9fc70/0": {
+    "id": "https://status.hetzner.com/065345c7-d421-4da0-9d88-19f104e9fc70/0",
+    "updated": "2025-09-11T09:28:48+00:00",
+    "title": "Fault report for EPS systems in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/065345c7-d421-4da0-9d88-19f104e9fc70"
+  },
   "https://status.hetzner.com/06cd98f7-182d-4608-9e03-1b83c301c587/0": {
     "id": "https://status.hetzner.com/06cd98f7-182d-4608-9e03-1b83c301c587/0",
     "updated": "2025-06-23T11:47:21+00:00",
@@ -1063,6 +1070,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/ca31d5a4-234d-4fab-b613-0c02d3e5b5ca"
   },
+  "https://status.hetzner.com/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717/0": {
+    "id": "https://status.hetzner.com/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717/0",
+    "updated": "2025-09-11T14:01:24+00:00",
+    "title": "Maintenance work on Object Storage",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717"
+  },
   "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0": {
     "id": "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0",
     "updated": "2025-05-06T13:11:04+00:00",
@@ -1272,6 +1286,13 @@
     "title": "Function tests on UPS and emergency power systems in NBG1-DC1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f"
+  },
+  "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/0": {
+    "id": "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/0",
+    "updated": "2025-09-11T14:37:21+00:00",
+    "title": "iPXE Update in HEL1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e"
   },
   "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0": {
     "id": "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0",

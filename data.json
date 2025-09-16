@@ -1084,6 +1084,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717"
   },
+  "https://status.hetzner.com/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717/1": {
+    "id": "https://status.hetzner.com/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717/1",
+    "updated": "2025-09-11T14:01:24+00:00",
+    "title": "Maintenance work on Object Storage",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717"
+  },
   "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0": {
     "id": "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0",
     "updated": "2025-05-06T13:11:04+00:00",
@@ -1370,6 +1377,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f951472a-f354-427e-9eed-81c99fe44d1a"
+  },
+  "https://status.hetzner.com/fd28028a-3471-4fb5-a7c7-196fd8b9fed7/0": {
+    "id": "https://status.hetzner.com/fd28028a-3471-4fb5-a7c7-196fd8b9fed7/0",
+    "updated": "2025-09-15T04:59:33+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/fd28028a-3471-4fb5-a7c7-196fd8b9fed7"
   },
   "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0": {
     "id": "https://status.hetzner.com/fdc2fdf2-fd8c-473c-9372-2679435789ce/0",

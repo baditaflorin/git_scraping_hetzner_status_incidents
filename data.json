@@ -1273,6 +1273,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e4b56eb9-a2ec-44ef-b571-4a28b19f5837"
   },
+  "https://status.hetzner.com/e4b56eb9-a2ec-44ef-b571-4a28b19f5837/1": {
+    "id": "https://status.hetzner.com/e4b56eb9-a2ec-44ef-b571-4a28b19f5837/1",
+    "updated": "2025-09-19T14:25:06+00:00",
+    "title": "Maintenance work on multiple systems, affecting the Cloud API and Hetzner Console",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/e4b56eb9-a2ec-44ef-b571-4a28b19f5837"
+  },
   "https://status.hetzner.com/e4d99f20-456c-43df-9395-4fe8cac2cdad/0": {
     "id": "https://status.hetzner.com/e4d99f20-456c-43df-9395-4fe8cac2cdad/0",
     "updated": "2025-06-20T07:09:02+00:00",

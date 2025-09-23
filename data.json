@@ -195,6 +195,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/244996c9-e8c4-4e0a-a1a8-97c082a8c763"
   },
+  "https://status.hetzner.com/25a09244-0d6b-4b0b-8153-6dba16383576/0": {
+    "id": "https://status.hetzner.com/25a09244-0d6b-4b0b-8153-6dba16383576/0",
+    "updated": "2025-09-22T09:29:54+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/25a09244-0d6b-4b0b-8153-6dba16383576"
+  },
   "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0": {
     "id": "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0",
     "updated": "2025-06-24T10:24:13+00:00",
@@ -1334,6 +1341,13 @@
     "updated": "2025-09-11T14:37:21+00:00",
     "title": "iPXE Update in HEL1",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e"
+  },
+  "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/1": {
+    "id": "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/1",
+    "updated": "2025-09-22T08:24:53+00:00",
+    "title": "iPXE Update in HEL1",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e"
   },
   "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0": {

@@ -167,6 +167,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/19cbe69e-ed43-4e5b-9287-bda89debbde4"
   },
+  "https://status.hetzner.com/19cbe69e-ed43-4e5b-9287-bda89debbde4/1": {
+    "id": "https://status.hetzner.com/19cbe69e-ed43-4e5b-9287-bda89debbde4/1",
+    "updated": "2025-09-26T08:50:49+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC1",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/19cbe69e-ed43-4e5b-9287-bda89debbde4"
+  },
   "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0": {
     "id": "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0",
     "updated": "2025-06-03T17:11:41+00:00",
@@ -313,6 +320,13 @@
     "title": "UPS function tests in NBG1-DC1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/35543eb4-622f-4f28-afee-999c38a2bfc0"
+  },
+  "https://status.hetzner.com/36f96b5e-c409-47d1-897b-9e0079526099/0": {
+    "id": "https://status.hetzner.com/36f96b5e-c409-47d1-897b-9e0079526099/0",
+    "updated": "2025-09-26T09:28:41+00:00",
+    "title": "Limited support on 3 October 2025",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/36f96b5e-c409-47d1-897b-9e0079526099"
   },
   "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0": {
     "id": "https://status.hetzner.com/3768340a-ccb7-4fb1-b07d-6bc70fd2c181/0",
@@ -1160,6 +1174,13 @@
     "title": "Maintenance work on Object Storage",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/cb71a9ff-ba0e-44bf-bf20-2cd9417a6717"
+  },
+  "https://status.hetzner.com/cc4635a5-57bb-4752-bb50-13e948d8b70e/0": {
+    "id": "https://status.hetzner.com/cc4635a5-57bb-4752-bb50-13e948d8b70e/0",
+    "updated": "2025-09-26T12:37:19+00:00",
+    "title": "Maintenance work on billing functions and consumption data",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/cc4635a5-57bb-4752-bb50-13e948d8b70e"
   },
   "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0": {
     "id": "https://status.hetzner.com/cd356115-fb06-4e8b-8bab-8e79da8c1722/0",

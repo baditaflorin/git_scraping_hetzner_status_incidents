@@ -237,6 +237,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/25a09244-0d6b-4b0b-8153-6dba16383576"
   },
+  "https://status.hetzner.com/25a09244-0d6b-4b0b-8153-6dba16383576/1": {
+    "id": "https://status.hetzner.com/25a09244-0d6b-4b0b-8153-6dba16383576/1",
+    "updated": "2025-09-22T09:29:54+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/25a09244-0d6b-4b0b-8153-6dba16383576"
+  },
   "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0": {
     "id": "https://status.hetzner.com/264765d4-260d-446e-98b0-45f3e81be88d/0",
     "updated": "2025-06-24T10:24:13+00:00",
@@ -1132,6 +1139,13 @@
     "title": "Maintenance on speed test at the NBG1 location",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/be4f3d35-f2be-4893-a20c-62c355a8169b"
+  },
+  "https://status.hetzner.com/bebe0f30-5cdc-4c34-8a7f-485ad2d1e37c/0": {
+    "id": "https://status.hetzner.com/bebe0f30-5cdc-4c34-8a7f-485ad2d1e37c/0",
+    "updated": "2025-09-29T05:39:31+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/bebe0f30-5cdc-4c34-8a7f-485ad2d1e37c"
   },
   "https://status.hetzner.com/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce/0": {
     "id": "https://status.hetzner.com/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce/0",

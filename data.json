@@ -552,6 +552,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6533d535-2980-4b1e-975c-014c5b512be0"
   },
+  "https://status.hetzner.com/6579d063-b2a2-4c0d-b5d9-15f9175af29b/0": {
+    "id": "https://status.hetzner.com/6579d063-b2a2-4c0d-b5d9-15f9175af29b/0",
+    "updated": "2025-10-02T15:23:25+00:00",
+    "title": "Maintenance work on cloud load balancers",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6579d063-b2a2-4c0d-b5d9-15f9175af29b"
+  },
   "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0": {
     "id": "https://status.hetzner.com/65873d28-09ed-42c0-b2f6-b03f22f26493/0",
     "updated": "2025-03-31T07:38:08+00:00",

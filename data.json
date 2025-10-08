@@ -104,6 +104,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0bf4e2f5-8c46-4181-8492-dee864fa5716"
   },
+  "https://status.hetzner.com/0cbb7d3d-893a-48d8-8203-5e0e67b70390/0": {
+    "id": "https://status.hetzner.com/0cbb7d3d-893a-48d8-8203-5e0e67b70390/0",
+    "updated": "2025-10-07T14:14:11+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0cbb7d3d-893a-48d8-8203-5e0e67b70390"
+  },
   "https://status.hetzner.com/0d7af646-8be6-49df-9728-d12bd1853db2/0": {
     "id": "https://status.hetzner.com/0d7af646-8be6-49df-9728-d12bd1853db2/0",
     "updated": "2025-07-07T15:12:53+00:00",
@@ -285,6 +292,13 @@
     "title": "Maintenance telephone infrastructure - NBG1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2ed0fb94-bd93-47b4-b57f-7518eb1398fd"
+  },
+  "https://status.hetzner.com/2f062aff-271b-4a08-8966-2c9aa47bb7a1/0": {
+    "id": "https://status.hetzner.com/2f062aff-271b-4a08-8966-2c9aa47bb7a1/0",
+    "updated": "2025-10-07T14:11:39+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC18",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2f062aff-271b-4a08-8966-2c9aa47bb7a1"
   },
   "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0": {
     "id": "https://status.hetzner.com/2f8792c5-11e1-4377-988e-e3303269f7d0/0",
@@ -615,6 +629,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6de8b4f1-a7c9-4fa5-8c21-31a786d7909a"
   },
+  "https://status.hetzner.com/6eb787f0-b556-440f-a4b3-1106a40c7a51/0": {
+    "id": "https://status.hetzner.com/6eb787f0-b556-440f-a4b3-1106a40c7a51/0",
+    "updated": "2025-10-07T08:45:22+00:00",
+    "title": "Maintenance telephone infrastructure - HEL1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6eb787f0-b556-440f-a4b3-1106a40c7a51"
+  },
   "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0": {
     "id": "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0",
     "updated": "2025-09-05T08:48:40+00:00",
@@ -726,6 +747,13 @@
     "title": "Object Storage in location fsn1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/821c277e-24e0-4ace-a498-13c3fd19b3b6"
+  },
+  "https://status.hetzner.com/83343f18-565f-4f57-b288-f1bdd8e728d7/0": {
+    "id": "https://status.hetzner.com/83343f18-565f-4f57-b288-f1bdd8e728d7/0",
+    "updated": "2025-10-07T08:44:32+00:00",
+    "title": "Maintenance telephone infrastructure - NBG1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/83343f18-565f-4f57-b288-f1bdd8e728d7"
   },
   "https://status.hetzner.com/852c9966-3a1f-4a56-926b-5a10064b2d5a/0": {
     "id": "https://status.hetzner.com/852c9966-3a1f-4a56-926b-5a10064b2d5a/0",
@@ -1139,6 +1167,13 @@
     "title": "Latest AWS SDK/CLI updates incompatible with Object Storage",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
+  },
+  "https://status.hetzner.com/b96cf853-aeb5-45b6-86e3-fe871ac39124/0": {
+    "id": "https://status.hetzner.com/b96cf853-aeb5-45b6-86e3-fe871ac39124/0",
+    "updated": "2025-10-07T08:43:49+00:00",
+    "title": "Maintenance telephone infrastructure - FSN1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b96cf853-aeb5-45b6-86e3-fe871ac39124"
   },
   "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0": {
     "id": "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0",

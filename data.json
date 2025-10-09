@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/130a10fd-c0ee-4277-89f7-4432b8773d7f"
   },
+  "https://status.hetzner.com/1365a741-0afd-4ceb-968f-77f348920fb7/0": {
+    "id": "https://status.hetzner.com/1365a741-0afd-4ceb-968f-77f348920fb7/0",
+    "updated": "2025-10-08T09:28:24+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC16",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1365a741-0afd-4ceb-968f-77f348920fb7"
+  },
   "https://status.hetzner.com/143dda0f-d22e-4636-9588-13ef0ffb004f/0": {
     "id": "https://status.hetzner.com/143dda0f-d22e-4636-9588-13ef0ffb004f/0",
     "updated": "2025-03-04T13:10:56+00:00",
@@ -1231,6 +1238,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/c7221e6a-c1e1-4bf0-881d-3e16a86313ff"
   },
+  "https://status.hetzner.com/c8fa6900-8d68-4c06-ab9e-629711395895/0": {
+    "id": "https://status.hetzner.com/c8fa6900-8d68-4c06-ab9e-629711395895/0",
+    "updated": "2025-10-08T09:36:53+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c8fa6900-8d68-4c06-ab9e-629711395895"
+  },
   "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0": {
     "id": "https://status.hetzner.com/c919c411-bbb5-454a-b755-5100dbcc6e2c/0",
     "updated": "2024-12-18T10:51:39+00:00",
@@ -1454,6 +1468,13 @@
     "title": "Replacement of power supply components and UPS in FSN1-DC7",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/e4d99f20-456c-43df-9395-4fe8cac2cdad"
+  },
+  "https://status.hetzner.com/e4ec2dd7-87c2-4b07-baa3-a43b300a8979/0": {
+    "id": "https://status.hetzner.com/e4ec2dd7-87c2-4b07-baa3-a43b300a8979/0",
+    "updated": "2025-10-08T18:45:21+00:00",
+    "title": "Maintenance work Hetzner konsoleH",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e4ec2dd7-87c2-4b07-baa3-a43b300a8979"
   },
   "https://status.hetzner.com/e5c061ac-62e1-4e18-b679-27baed28ae0f/0": {
     "id": "https://status.hetzner.com/e5c061ac-62e1-4e18-b679-27baed28ae0f/0",

@@ -111,6 +111,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0cbb7d3d-893a-48d8-8203-5e0e67b70390"
   },
+  "https://status.hetzner.com/0cbb7d3d-893a-48d8-8203-5e0e67b70390/1": {
+    "id": "https://status.hetzner.com/0cbb7d3d-893a-48d8-8203-5e0e67b70390/1",
+    "updated": "2025-10-13T08:51:25+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/0cbb7d3d-893a-48d8-8203-5e0e67b70390"
+  },
   "https://status.hetzner.com/0d7af646-8be6-49df-9728-d12bd1853db2/0": {
     "id": "https://status.hetzner.com/0d7af646-8be6-49df-9728-d12bd1853db2/0",
     "updated": "2025-07-07T15:12:53+00:00",
@@ -272,6 +279,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/264765d4-260d-446e-98b0-45f3e81be88d"
   },
+  "https://status.hetzner.com/28e8127c-1f46-41ac-a52a-d350e381e954/0": {
+    "id": "https://status.hetzner.com/28e8127c-1f46-41ac-a52a-d350e381e954/0",
+    "updated": "2025-10-13T07:11:33+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/28e8127c-1f46-41ac-a52a-d350e381e954"
+  },
   "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1": {
     "id": "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1",
     "updated": "2025-07-04T18:54:01+00:00",
@@ -403,6 +417,13 @@
     "updated": "2025-09-02T05:19:49+00:00",
     "title": "Maintenance emergency power system in FSN1-DC10",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3b91272b-d95a-4fca-87e5-dbfb50acb8e0"
+  },
+  "https://status.hetzner.com/3b91272b-d95a-4fca-87e5-dbfb50acb8e0/1": {
+    "id": "https://status.hetzner.com/3b91272b-d95a-4fca-87e5-dbfb50acb8e0/1",
+    "updated": "2025-10-13T08:51:35+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/3b91272b-d95a-4fca-87e5-dbfb50acb8e0"
   },
   "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
@@ -1230,6 +1251,13 @@
     "title": "Maintenance work on the ticket system - HEL1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/c2d5192d-ead7-4069-9b6b-a8ce264ea9ce"
+  },
+  "https://status.hetzner.com/c306190e-2f59-46e2-8ad7-b56642262932/1": {
+    "id": "https://status.hetzner.com/c306190e-2f59-46e2-8ad7-b56642262932/1",
+    "updated": "2025-10-13T07:10:57+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC1",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/c306190e-2f59-46e2-8ad7-b56642262932"
   },
   "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0": {
     "id": "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0",

@@ -244,6 +244,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/205efccd-b5bd-4701-926a-c9349f6310ad"
   },
+  "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0": {
+    "id": "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0",
+    "updated": "2025-10-14T13:11:28+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1"
+  },
   "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0": {
     "id": "https://status.hetzner.com/244996c9-e8c4-4e0a-a1a8-97c082a8c763/0",
     "updated": "2025-02-26T07:50:30+00:00",
@@ -397,6 +404,13 @@
     "title": "Restriction of SSL and domain support via telephone",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/382de8be-4ddd-42d9-9480-5cc3d0a4ec93"
+  },
+  "https://status.hetzner.com/3908eba3-402b-4cbe-9012-b6ecf2c51260/0": {
+    "id": "https://status.hetzner.com/3908eba3-402b-4cbe-9012-b6ecf2c51260/0",
+    "updated": "2025-10-14T08:23:51+00:00",
+    "title": "iPXE Update in FSN1 and NBG1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3908eba3-402b-4cbe-9012-b6ecf2c51260"
   },
   "https://status.hetzner.com/39bedbe2-a830-4eba-9a54-43f3bded630b/0": {
     "id": "https://status.hetzner.com/39bedbe2-a830-4eba-9a54-43f3bded630b/0",
@@ -1111,6 +1125,13 @@
     "title": "Limited availability of Cloud plans",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/aa5ce33b-faa5-4fd0-9782-fde43cd270cf"
+  },
+  "https://status.hetzner.com/abeebef7-1549-49b6-9099-8f07a32286dc/0": {
+    "id": "https://status.hetzner.com/abeebef7-1549-49b6-9099-8f07a32286dc/0",
+    "updated": "2025-10-14T14:36:21+00:00",
+    "title": "Maintenance work on the webmail system (webmail.your-server.de)",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/abeebef7-1549-49b6-9099-8f07a32286dc"
   },
   "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/0": {
     "id": "https://status.hetzner.com/acd478be-b3e2-4a09-ace8-f792ebd37554/0",

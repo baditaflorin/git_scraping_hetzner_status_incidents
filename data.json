@@ -587,6 +587,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
   },
+  "https://status.hetzner.com/6090329d-e173-4510-bbc7-5adcc2408835/0": {
+    "id": "https://status.hetzner.com/6090329d-e173-4510-bbc7-5adcc2408835/0",
+    "updated": "2025-10-15T13:56:40+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC12",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6090329d-e173-4510-bbc7-5adcc2408835"
+  },
   "https://status.hetzner.com/61b86ea8-f992-46de-814e-60873fad6707/0": {
     "id": "https://status.hetzner.com/61b86ea8-f992-46de-814e-60873fad6707/0",
     "updated": "2025-05-28T12:04:36+00:00",
@@ -901,6 +908,13 @@
     "title": "Fault report for EPS system in FSN1-DC22",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/9211e806-38f5-4bfd-b765-a2599290ab13"
+  },
+  "https://status.hetzner.com/92458e64-f5a0-43bb-9cf9-ce3456a5d9d4/0": {
+    "id": "https://status.hetzner.com/92458e64-f5a0-43bb-9cf9-ce3456a5d9d4/0",
+    "updated": "2025-10-15T05:57:18+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/92458e64-f5a0-43bb-9cf9-ce3456a5d9d4"
   },
   "https://status.hetzner.com/935cdd9d-181a-4458-a0ab-e7946da626ec/0": {
     "id": "https://status.hetzner.com/935cdd9d-181a-4458-a0ab-e7946da626ec/0",

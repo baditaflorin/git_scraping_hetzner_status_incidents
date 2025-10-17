@@ -293,6 +293,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/28e8127c-1f46-41ac-a52a-d350e381e954"
   },
+  "https://status.hetzner.com/2a3a8154-57f6-4857-8ce4-8b31d82ea526/0": {
+    "id": "https://status.hetzner.com/2a3a8154-57f6-4857-8ce4-8b31d82ea526/0",
+    "updated": "2025-10-16T12:23:25+00:00",
+    "title": "UPS function tests in FSN1-DC1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2a3a8154-57f6-4857-8ce4-8b31d82ea526"
+  },
   "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1": {
     "id": "https://status.hetzner.com/2a981d6d-9c96-4976-b2ac-36e930f61222/1",
     "updated": "2025-07-04T18:54:01+00:00",
@@ -685,6 +692,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6eb787f0-b556-440f-a4b3-1106a40c7a51"
   },
+  "https://status.hetzner.com/70dd78c5-3552-4c3e-8ea6-33761f00eb3c/0": {
+    "id": "https://status.hetzner.com/70dd78c5-3552-4c3e-8ea6-33761f00eb3c/0",
+    "updated": "2025-10-16T12:27:04+00:00",
+    "title": "UPS function tests in FSN1-DC12",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/70dd78c5-3552-4c3e-8ea6-33761f00eb3c"
+  },
   "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0": {
     "id": "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0",
     "updated": "2025-09-05T08:48:40+00:00",
@@ -1063,6 +1077,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4f29523-e2ba-4158-aad7-a1051cc75dd3"
   },
+  "https://status.hetzner.com/a58d472f-4e84-42f5-931d-5b2035c15eca/0": {
+    "id": "https://status.hetzner.com/a58d472f-4e84-42f5-931d-5b2035c15eca/0",
+    "updated": "2025-10-16T12:25:52+00:00",
+    "title": "UPS function tests in FSN1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a58d472f-4e84-42f5-931d-5b2035c15eca"
+  },
   "https://status.hetzner.com/a5b8778e-06ff-47ba-acf6-3f3fc8b8adce/0": {
     "id": "https://status.hetzner.com/a5b8778e-06ff-47ba-acf6-3f3fc8b8adce/0",
     "updated": "2025-08-07T09:36:34+00:00",
@@ -1419,6 +1440,13 @@
     "title": "UPS function tests in NBG1-DC2",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d6c85f50-371a-417f-8f75-74d010b7e379"
+  },
+  "https://status.hetzner.com/d7a1b955-dcc1-40db-ad66-c505b16b55ae/0": {
+    "id": "https://status.hetzner.com/d7a1b955-dcc1-40db-ad66-c505b16b55ae/0",
+    "updated": "2025-10-16T12:35:40+00:00",
+    "title": "UPS function tests in FSN1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d7a1b955-dcc1-40db-ad66-c505b16b55ae"
   },
   "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0": {
     "id": "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0",

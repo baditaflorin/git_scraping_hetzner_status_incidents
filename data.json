@@ -580,6 +580,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5b7c6d91-f778-427a-b275-b00dfa29139f"
   },
+  "https://status.hetzner.com/5dbe6629-cdbd-428c-8bab-5d77637545eb/0": {
+    "id": "https://status.hetzner.com/5dbe6629-cdbd-428c-8bab-5d77637545eb/0",
+    "updated": "2025-10-20T08:45:09+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5dbe6629-cdbd-428c-8bab-5d77637545eb"
+  },
   "https://status.hetzner.com/5e73c069-e679-4711-a2be-e80f158ecc7f/0": {
     "id": "https://status.hetzner.com/5e73c069-e679-4711-a2be-e80f158ecc7f/0",
     "updated": "2025-09-04T08:57:53+00:00",
@@ -698,6 +705,13 @@
     "title": "UPS function tests in FSN1-DC12",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/70dd78c5-3552-4c3e-8ea6-33761f00eb3c"
+  },
+  "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0": {
+    "id": "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0",
+    "updated": "2025-10-20T09:56:19+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC22",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa"
   },
   "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0": {
     "id": "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0",
@@ -943,6 +957,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/93d46123-0ec7-4f44-b0f1-030520dfff8d"
+  },
+  "https://status.hetzner.com/94ec48e1-cf3e-4321-a2f3-3463cccc897e/0": {
+    "id": "https://status.hetzner.com/94ec48e1-cf3e-4321-a2f3-3463cccc897e/0",
+    "updated": "2025-10-20T09:58:38+00:00",
+    "title": "UPS function tests in FSN1-DC22",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/94ec48e1-cf3e-4321-a2f3-3463cccc897e"
   },
   "https://status.hetzner.com/9575f9ae-34ba-43a0-859b-bee7c2d6924a/0": {
     "id": "https://status.hetzner.com/9575f9ae-34ba-43a0-859b-bee7c2d6924a/0",

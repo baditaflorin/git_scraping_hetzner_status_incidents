@@ -965,6 +965,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/94ec48e1-cf3e-4321-a2f3-3463cccc897e"
   },
+  "https://status.hetzner.com/94ec48e1-cf3e-4321-a2f3-3463cccc897e/2": {
+    "id": "https://status.hetzner.com/94ec48e1-cf3e-4321-a2f3-3463cccc897e/2",
+    "updated": "2025-10-21T12:53:54+00:00",
+    "title": "UPS function tests in FSN1-DC22",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/94ec48e1-cf3e-4321-a2f3-3463cccc897e"
+  },
   "https://status.hetzner.com/9575f9ae-34ba-43a0-859b-bee7c2d6924a/0": {
     "id": "https://status.hetzner.com/9575f9ae-34ba-43a0-859b-bee7c2d6924a/0",
     "updated": "2025-06-05T12:07:52+00:00",
@@ -1398,6 +1405,13 @@
     "title": "Maintenance UPS systems in HEL1-DC5",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/ce139df1-3c26-48f2-bab2-b29bdde32223"
+  },
+  "https://status.hetzner.com/ce8d052b-2c67-485a-b133-f561bb5d3d47/1": {
+    "id": "https://status.hetzner.com/ce8d052b-2c67-485a-b133-f561bb5d3d47/1",
+    "updated": "2025-10-21T10:57:24+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC6",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/ce8d052b-2c67-485a-b133-f561bb5d3d47"
   },
   "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0": {
     "id": "https://status.hetzner.com/d01c925c-dfa1-4da5-a9de-5475d83e04bd/0",

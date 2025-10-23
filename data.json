@@ -580,6 +580,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5b7c6d91-f778-427a-b275-b00dfa29139f"
   },
+  "https://status.hetzner.com/5bc4f15f-806a-418e-8808-adce1a98a7d5/0": {
+    "id": "https://status.hetzner.com/5bc4f15f-806a-418e-8808-adce1a98a7d5/0",
+    "updated": "2025-10-22T14:58:14+00:00",
+    "title": "Load Balancer \u0026 Certificate API: maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5bc4f15f-806a-418e-8808-adce1a98a7d5"
+  },
   "https://status.hetzner.com/5dbe6629-cdbd-428c-8bab-5d77637545eb/0": {
     "id": "https://status.hetzner.com/5dbe6629-cdbd-428c-8bab-5d77637545eb/0",
     "updated": "2025-10-20T08:45:09+00:00",

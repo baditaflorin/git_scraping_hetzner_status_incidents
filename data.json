@@ -671,6 +671,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/6bec8fe6-51ca-4adf-ab2f-bc2164fd3056"
   },
+  "https://status.hetzner.com/6c173f57-b7c6-4cd7-8554-51ca21b5ada8/0": {
+    "id": "https://status.hetzner.com/6c173f57-b7c6-4cd7-8554-51ca21b5ada8/0",
+    "updated": "2025-10-24T13:15:57+00:00",
+    "title": "Creation of new zones (dns.hetzner.com) will be disabled after 10.11.2025",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6c173f57-b7c6-4cd7-8554-51ca21b5ada8"
+  },
   "https://status.hetzner.com/6c67af66-546b-4a09-9601-39a080eb9ee9/0": {
     "id": "https://status.hetzner.com/6c67af66-546b-4a09-9601-39a080eb9ee9/0",
     "updated": "2025-05-22T09:41:16+00:00",

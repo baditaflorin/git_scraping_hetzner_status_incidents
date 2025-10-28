@@ -447,6 +447,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/3b91272b-d95a-4fca-87e5-dbfb50acb8e0"
   },
+  "https://status.hetzner.com/3ca16271-67a8-4ddf-89fb-281c76421f24/1": {
+    "id": "https://status.hetzner.com/3ca16271-67a8-4ddf-89fb-281c76421f24/1",
+    "updated": "2025-10-27T07:12:38+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC7",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/3ca16271-67a8-4ddf-89fb-281c76421f24"
+  },
   "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
     "id": "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0",
     "updated": "2025-02-21T11:12:11+00:00",
@@ -1012,6 +1019,13 @@
     "updated": "2025-09-02T05:22:57+00:00",
     "title": "Maintenance emergency power system in FSN1-DC11",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/9b2df177-537d-4914-b8e2-6349000901f3"
+  },
+  "https://status.hetzner.com/9b2df177-537d-4914-b8e2-6349000901f3/1": {
+    "id": "https://status.hetzner.com/9b2df177-537d-4914-b8e2-6349000901f3/1",
+    "updated": "2025-10-27T08:51:11+00:00",
+    "title": "Maintenance emergency power system in FSN1-DC11",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/9b2df177-537d-4914-b8e2-6349000901f3"
   },
   "https://status.hetzner.com/9c38d097-a24d-4c1d-aa79-5d5e7f7ab691/0": {

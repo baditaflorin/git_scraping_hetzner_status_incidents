@@ -202,6 +202,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/19cbe69e-ed43-4e5b-9287-bda89debbde4"
   },
+  "https://status.hetzner.com/1a546121-de81-40f3-8829-52c2559b88b4/0": {
+    "id": "https://status.hetzner.com/1a546121-de81-40f3-8829-52c2559b88b4/0",
+    "updated": "2025-10-28T13:03:43+00:00",
+    "title": "Maintenance UPS systems in FSN1-DC14",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1a546121-de81-40f3-8829-52c2559b88b4"
+  },
   "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0": {
     "id": "https://status.hetzner.com/1bad61c8-2ce7-4ee1-a532-7d84fcc68117/0",
     "updated": "2025-06-03T17:11:41+00:00",
@@ -614,6 +621,13 @@
     "title": "Networkboot on Hyper-V 1st Gen machines not possible",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/5ff35946-03ab-4414-80b6-8357d1cbb2e1"
+  },
+  "https://status.hetzner.com/6071f58b-3f7d-421a-b806-4a420e47615d/0": {
+    "id": "https://status.hetzner.com/6071f58b-3f7d-421a-b806-4a420e47615d/0",
+    "updated": "2025-10-28T12:59:29+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC14",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/6071f58b-3f7d-421a-b806-4a420e47615d"
   },
   "https://status.hetzner.com/6090329d-e173-4510-bbc7-5adcc2408835/0": {
     "id": "https://status.hetzner.com/6090329d-e173-4510-bbc7-5adcc2408835/0",

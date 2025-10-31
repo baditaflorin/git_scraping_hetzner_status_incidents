@@ -398,6 +398,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/35543eb4-622f-4f28-afee-999c38a2bfc0"
   },
+  "https://status.hetzner.com/36d8d631-5e74-4767-b87e-b7303cb4a667/3": {
+    "id": "https://status.hetzner.com/36d8d631-5e74-4767-b87e-b7303cb4a667/3",
+    "updated": "2025-10-30T11:24:39+00:00",
+    "title": "Cloud Resource Creation Delay",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/36d8d631-5e74-4767-b87e-b7303cb4a667"
+  },
   "https://status.hetzner.com/36f96b5e-c409-47d1-897b-9e0079526099/0": {
     "id": "https://status.hetzner.com/36f96b5e-c409-47d1-897b-9e0079526099/0",
     "updated": "2025-09-26T09:28:41+00:00",

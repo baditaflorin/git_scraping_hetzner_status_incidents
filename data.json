@@ -853,6 +853,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7fae9cca-b38c-4154-8a27-14e6dfea5c1e"
   },
+  "https://status.hetzner.com/806acdbb-c468-4253-80a2-5c70369ddaba/0": {
+    "id": "https://status.hetzner.com/806acdbb-c468-4253-80a2-5c70369ddaba/0",
+    "updated": "2025-11-04T16:43:23+00:00",
+    "title": "Load Balancers: maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/806acdbb-c468-4253-80a2-5c70369ddaba"
+  },
   "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/0": {
     "id": "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/0",
     "updated": "2025-07-01T12:22:04+00:00",
@@ -1832,5 +1839,12 @@
     "title": "Maintenance UPS systems in FSN1-DC20",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/fe09f854-ddad-48fd-914c-d58015165517"
+  },
+  "https://status.hetzner.com/fe4240b1-6e9f-4f5d-b8cb-eb6887219341/0": {
+    "id": "https://status.hetzner.com/fe4240b1-6e9f-4f5d-b8cb-eb6887219341/0",
+    "updated": "2025-11-04T12:41:50+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/fe4240b1-6e9f-4f5d-b8cb-eb6887219341"
   }
 }

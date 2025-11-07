@@ -860,6 +860,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/806acdbb-c468-4253-80a2-5c70369ddaba"
   },
+  "https://status.hetzner.com/806acdbb-c468-4253-80a2-5c70369ddaba/1": {
+    "id": "https://status.hetzner.com/806acdbb-c468-4253-80a2-5c70369ddaba/1",
+    "updated": "2025-11-06T09:31:00+00:00",
+    "title": "Load Balancers: maintenance work",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/806acdbb-c468-4253-80a2-5c70369ddaba"
+  },
   "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/0": {
     "id": "https://status.hetzner.com/80943e32-2f9d-4c94-85b6-6cac403ae7b0/0",
     "updated": "2025-07-01T12:22:04+00:00",

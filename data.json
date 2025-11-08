@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0d7af646-8be6-49df-9728-d12bd1853db2"
   },
+  "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0": {
+    "id": "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0",
+    "updated": "2025-11-07T08:48:37+00:00",
+    "title": "Maintenance on DHCP servers in ASH",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/11e48cd5-f705-49d3-9dc0-711a3be5f254"
+  },
   "https://status.hetzner.com/130a10fd-c0ee-4277-89f7-4432b8773d7f/0": {
     "id": "https://status.hetzner.com/130a10fd-c0ee-4277-89f7-4432b8773d7f/0",
     "updated": "2025-08-01T09:39:04+00:00",
@@ -572,6 +579,13 @@
     "title": "Maintenance UPS systems in NBG1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/528405e8-394f-41be-b452-42702e31d675"
+  },
+  "https://status.hetzner.com/540aa100-e2c4-44bd-bb76-031366b3d320/1": {
+    "id": "https://status.hetzner.com/540aa100-e2c4-44bd-bb76-031366b3d320/1",
+    "updated": "2025-11-07T10:14:09+00:00",
+    "title": "Load Balancer: Problems with private cloud networks",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/540aa100-e2c4-44bd-bb76-031366b3d320"
   },
   "https://status.hetzner.com/55d1dc24-6c28-4970-a100-721bfc141016/0": {
     "id": "https://status.hetzner.com/55d1dc24-6c28-4970-a100-721bfc141016/0",

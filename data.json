@@ -804,6 +804,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7743648a-5c1c-4cfd-8b95-5a07c3265064"
   },
+  "https://status.hetzner.com/779fc7f3-6fac-4ccf-982c-4c7f39136f72/0": {
+    "id": "https://status.hetzner.com/779fc7f3-6fac-4ccf-982c-4c7f39136f72/0",
+    "updated": "2025-11-12T06:54:52+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/779fc7f3-6fac-4ccf-982c-4c7f39136f72"
+  },
   "https://status.hetzner.com/78f2d19f-3c24-4a19-b647-88055934f368/0": {
     "id": "https://status.hetzner.com/78f2d19f-3c24-4a19-b647-88055934f368/0",
     "updated": "2025-09-30T06:50:39+00:00",
@@ -1664,6 +1671,13 @@
     "title": "Function tests on UPS and emergency power systems in NBG1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/df76f13b-9869-4fcb-bc3a-ceb00e06f307"
+  },
+  "https://status.hetzner.com/e067baf9-2083-4dec-8db6-571f72aa0988/0": {
+    "id": "https://status.hetzner.com/e067baf9-2083-4dec-8db6-571f72aa0988/0",
+    "updated": "2025-11-12T06:53:50+00:00",
+    "title": "Maintenance work on Colocation Guest Wifi at FSN1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/e067baf9-2083-4dec-8db6-571f72aa0988"
   },
   "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0": {
     "id": "https://status.hetzner.com/e21c3bfb-d22c-4655-856a-6c91f33bd482/0",

@@ -1469,6 +1469,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/c306190e-2f59-46e2-8ad7-b56642262932"
   },
+  "https://status.hetzner.com/c50a7c04-7ce3-4d48-a10c-1bc4a6bd0d7d/0": {
+    "id": "https://status.hetzner.com/c50a7c04-7ce3-4d48-a10c-1bc4a6bd0d7d/0",
+    "updated": "2025-11-13T12:10:40+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c50a7c04-7ce3-4d48-a10c-1bc4a6bd0d7d"
+  },
   "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0": {
     "id": "https://status.hetzner.com/c7221e6a-c1e1-4bf0-881d-3e16a86313ff/0",
     "updated": "2025-03-13T14:16:46+00:00",

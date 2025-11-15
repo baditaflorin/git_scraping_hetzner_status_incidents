@@ -1189,6 +1189,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/a4337e2f-3b6a-4e5b-98d6-865f43b87c80"
   },
+  "https://status.hetzner.com/a46cbd10-8cde-45c9-981f-6ed6c2f979e8/0": {
+    "id": "https://status.hetzner.com/a46cbd10-8cde-45c9-981f-6ed6c2f979e8/0",
+    "updated": "2025-11-14T09:12:37+00:00",
+    "title": "Maintenance work on the ticket system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/a46cbd10-8cde-45c9-981f-6ed6c2f979e8"
+  },
   "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/0": {
     "id": "https://status.hetzner.com/a4a436a9-702d-4a12-bd9a-68b8186ec2dd/0",
     "updated": "2025-07-15T14:08:07+00:00",
@@ -1594,6 +1601,13 @@
     "title": "Hetzner Accounts: 2FA Limitation",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d3fc5280-26d9-43e8-9e18-02108e28f847"
+  },
+  "https://status.hetzner.com/d43636a6-95b8-4b75-8ff5-c767a45a6390/0": {
+    "id": "https://status.hetzner.com/d43636a6-95b8-4b75-8ff5-c767a45a6390/0",
+    "updated": "2025-11-14T07:05:35+00:00",
+    "title": "Maintenance on NTP server ntp3.hetzner.de/ntp3.hetzner.net",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d43636a6-95b8-4b75-8ff5-c767a45a6390"
   },
   "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0": {
     "id": "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0",

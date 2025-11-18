@@ -650,6 +650,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/5e73c069-e679-4711-a2be-e80f158ecc7f"
   },
+  "https://status.hetzner.com/5ee8ac6a-12b0-4a66-ab7d-08591ab99b82/0": {
+    "id": "https://status.hetzner.com/5ee8ac6a-12b0-4a66-ab7d-08591ab99b82/0",
+    "updated": "2025-11-17T12:57:33+00:00",
+    "title": "Maintenance work on mirror (mirror.hetzner.com / download.hetzner.com)",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5ee8ac6a-12b0-4a66-ab7d-08591ab99b82"
+  },
   "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1": {
     "id": "https://status.hetzner.com/5ff35946-03ab-4414-80b6-8357d1cbb2e1/1",
     "updated": "2025-02-07T16:29:53+00:00",
@@ -1623,6 +1630,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d6c85f50-371a-417f-8f75-74d010b7e379"
   },
+  "https://status.hetzner.com/d76f7de7-56b7-4851-be25-96e429ce6dcf/0": {
+    "id": "https://status.hetzner.com/d76f7de7-56b7-4851-be25-96e429ce6dcf/0",
+    "updated": "2025-11-17T10:26:17+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d76f7de7-56b7-4851-be25-96e429ce6dcf"
+  },
   "https://status.hetzner.com/d7a1b955-dcc1-40db-ad66-c505b16b55ae/0": {
     "id": "https://status.hetzner.com/d7a1b955-dcc1-40db-ad66-c505b16b55ae/0",
     "updated": "2025-10-16T12:35:40+00:00",
@@ -1811,6 +1825,13 @@
     "title": "iPXE Update in HEL1",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e"
+  },
+  "https://status.hetzner.com/eed47311-8ef8-4e1b-a87d-bb1b839902c4/0": {
+    "id": "https://status.hetzner.com/eed47311-8ef8-4e1b-a87d-bb1b839902c4/0",
+    "updated": "2025-11-17T05:13:58+00:00",
+    "title": "Maintenance work on the server monitoring system (SysMon) ",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/eed47311-8ef8-4e1b-a87d-bb1b839902c4"
   },
   "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0": {
     "id": "https://status.hetzner.com/f06ffe20-557f-4c7b-ac43-25ce40d96e5c/0",

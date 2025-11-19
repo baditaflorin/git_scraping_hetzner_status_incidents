@@ -993,6 +993,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/8becfe86-b077-4983-b7d0-af81b4fc1496"
   },
+  "https://status.hetzner.com/8c505b2d-060c-4380-958a-f42067a09e59/0": {
+    "id": "https://status.hetzner.com/8c505b2d-060c-4380-958a-f42067a09e59/0",
+    "updated": "2025-11-18T14:26:57+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC8",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8c505b2d-060c-4380-958a-f42067a09e59"
+  },
   "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0": {
     "id": "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0",
     "updated": "2025-08-05T04:49:23+00:00",
@@ -1420,6 +1427,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
   },
+  "https://status.hetzner.com/b8fdc3ca-cf15-40d6-a586-c2afdeee648a/0": {
+    "id": "https://status.hetzner.com/b8fdc3ca-cf15-40d6-a586-c2afdeee648a/0",
+    "updated": "2025-11-18T14:11:27+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC15",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b8fdc3ca-cf15-40d6-a586-c2afdeee648a"
+  },
   "https://status.hetzner.com/b96cf853-aeb5-45b6-86e3-fe871ac39124/0": {
     "id": "https://status.hetzner.com/b96cf853-aeb5-45b6-86e3-fe871ac39124/0",
     "updated": "2025-10-07T08:43:49+00:00",
@@ -1615,6 +1629,13 @@
     "title": "Maintenance on NTP server ntp3.hetzner.de/ntp3.hetzner.net",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d43636a6-95b8-4b75-8ff5-c767a45a6390"
+  },
+  "https://status.hetzner.com/d44cbb5d-2347-4b47-a05e-68acb5eed6ee/0": {
+    "id": "https://status.hetzner.com/d44cbb5d-2347-4b47-a05e-68acb5eed6ee/0",
+    "updated": "2025-11-18T14:09:23+00:00",
+    "title": "Maintenance emergency power system in NBG1-DC1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d44cbb5d-2347-4b47-a05e-68acb5eed6ee"
   },
   "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0": {
     "id": "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0",

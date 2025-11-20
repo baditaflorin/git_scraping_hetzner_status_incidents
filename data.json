@@ -1000,6 +1000,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8c505b2d-060c-4380-958a-f42067a09e59"
   },
+  "https://status.hetzner.com/8c505b2d-060c-4380-958a-f42067a09e59/1": {
+    "id": "https://status.hetzner.com/8c505b2d-060c-4380-958a-f42067a09e59/1",
+    "updated": "2025-11-19T06:43:55+00:00",
+    "title": "Maintenance emergency power system in HEL1-DC8",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/8c505b2d-060c-4380-958a-f42067a09e59"
+  },
   "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0": {
     "id": "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0",
     "updated": "2025-08-05T04:49:23+00:00",

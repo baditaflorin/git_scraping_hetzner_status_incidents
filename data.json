@@ -580,6 +580,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/528405e8-394f-41be-b452-42702e31d675"
   },
+  "https://status.hetzner.com/52877f6d-5db2-4d68-806d-6ea6f052299e/0": {
+    "id": "https://status.hetzner.com/52877f6d-5db2-4d68-806d-6ea6f052299e/0",
+    "updated": "2025-11-24T06:08:07+00:00",
+    "title": "UPS function tests in HEL1-DC1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/52877f6d-5db2-4d68-806d-6ea6f052299e"
+  },
   "https://status.hetzner.com/540aa100-e2c4-44bd-bb76-031366b3d320/1": {
     "id": "https://status.hetzner.com/540aa100-e2c4-44bd-bb76-031366b3d320/1",
     "updated": "2025-11-07T10:14:09+00:00",
@@ -713,6 +720,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/65873d28-09ed-42c0-b2f6-b03f22f26493"
   },
+  "https://status.hetzner.com/666dd9f7-cfae-47b3-b88c-af3e073857fd/0": {
+    "id": "https://status.hetzner.com/666dd9f7-cfae-47b3-b88c-af3e073857fd/0",
+    "updated": "2025-11-24T06:08:43+00:00",
+    "title": "UPS function tests in HEL1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/666dd9f7-cfae-47b3-b88c-af3e073857fd"
+  },
   "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0": {
     "id": "https://status.hetzner.com/675b75d8-8931-4d26-b8ff-7853d8e027cc/0",
     "updated": "2025-02-10T06:36:54+00:00",
@@ -797,12 +811,26 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/70dd78c5-3552-4c3e-8ea6-33761f00eb3c"
   },
+  "https://status.hetzner.com/7182595d-60bc-4f88-9d9b-d26265bbafbe/0": {
+    "id": "https://status.hetzner.com/7182595d-60bc-4f88-9d9b-d26265bbafbe/0",
+    "updated": "2025-11-24T09:47:11+00:00",
+    "title": "Robot routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7182595d-60bc-4f88-9d9b-d26265bbafbe"
+  },
   "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0": {
     "id": "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0",
     "updated": "2025-10-20T09:56:19+00:00",
     "title": "Function tests on UPS and emergency power systems in FSN1-DC22",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa"
+  },
+  "https://status.hetzner.com/755f9154-baa7-4247-ae67-f383d83963f8/0": {
+    "id": "https://status.hetzner.com/755f9154-baa7-4247-ae67-f383d83963f8/0",
+    "updated": "2025-11-24T08:57:01+00:00",
+    "title": "Maintenance on NTP server ntp2.hetzner.de/ntp2.hetzner.com",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/755f9154-baa7-4247-ae67-f383d83963f8"
   },
   "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0": {
     "id": "https://status.hetzner.com/7743648a-5c1c-4cfd-8b95-5a07c3265064/0",
@@ -838,6 +866,13 @@
     "title": "Connection problems with private networks in NBG",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/7a0e91be-15d3-44be-af94-d866fcde272c"
+  },
+  "https://status.hetzner.com/7b586093-5069-4ba3-a3bf-d7e291a3312b/0": {
+    "id": "https://status.hetzner.com/7b586093-5069-4ba3-a3bf-d7e291a3312b/0",
+    "updated": "2025-11-24T09:08:53+00:00",
+    "title": "Maintenance at DENIC",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7b586093-5069-4ba3-a3bf-d7e291a3312b"
   },
   "https://status.hetzner.com/7c3e8e37-18ed-4d00-9831-6b4262e15a7e/0": {
     "id": "https://status.hetzner.com/7c3e8e37-18ed-4d00-9831-6b4262e15a7e/0",
@@ -1020,6 +1055,13 @@
     "title": "Maintenance work on Object Storage in FSN1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8da9c187-ca2a-4fa0-bf00-56b61e1122e9"
+  },
+  "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/0": {
+    "id": "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/0",
+    "updated": "2025-11-24T06:06:57+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC2",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8f6eccd1-56fc-4dc8-849f-021bb637f05c"
   },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
@@ -1434,6 +1476,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b6382a74-0fd9-4789-b997-65249187fbc7"
   },
+  "https://status.hetzner.com/b7c8d070-80b9-4ea1-b901-83aeb637ae03/0": {
+    "id": "https://status.hetzner.com/b7c8d070-80b9-4ea1-b901-83aeb637ae03/0",
+    "updated": "2025-11-24T09:46:17+00:00",
+    "title": "Hetzner Accounts routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b7c8d070-80b9-4ea1-b901-83aeb637ae03"
+  },
   "https://status.hetzner.com/b8fdc3ca-cf15-40d6-a586-c2afdeee648a/0": {
     "id": "https://status.hetzner.com/b8fdc3ca-cf15-40d6-a586-c2afdeee648a/0",
     "updated": "2025-11-18T14:11:27+00:00",
@@ -1644,12 +1693,26 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d44cbb5d-2347-4b47-a05e-68acb5eed6ee"
   },
+  "https://status.hetzner.com/d44cbb5d-2347-4b47-a05e-68acb5eed6ee/1": {
+    "id": "https://status.hetzner.com/d44cbb5d-2347-4b47-a05e-68acb5eed6ee/1",
+    "updated": "2025-11-24T08:10:25+00:00",
+    "title": "Maintenance emergency power system in NBG1-DC1",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/d44cbb5d-2347-4b47-a05e-68acb5eed6ee"
+  },
   "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0": {
     "id": "https://status.hetzner.com/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5/0",
     "updated": "2025-05-22T12:44:48+00:00",
     "title": "Function tests on UPS and emergency power systems in FSN1-DC13",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d45314e3-b59b-4afd-a5f2-9c5a2c28b1e5"
+  },
+  "https://status.hetzner.com/d506aa5b-256e-4611-8c77-a71d305ef410/1": {
+    "id": "https://status.hetzner.com/d506aa5b-256e-4611-8c77-a71d305ef410/1",
+    "updated": "2025-11-24T18:11:38+00:00",
+    "title": "Object Storage in location fsn1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/d506aa5b-256e-4611-8c77-a71d305ef410"
   },
   "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0": {
     "id": "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0",

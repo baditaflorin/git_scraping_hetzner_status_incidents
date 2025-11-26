@@ -125,6 +125,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0d7af646-8be6-49df-9728-d12bd1853db2"
   },
+  "https://status.hetzner.com/0f5b5db2-84e6-4a05-903a-132a4b19eb5b/0": {
+    "id": "https://status.hetzner.com/0f5b5db2-84e6-4a05-903a-132a4b19eb5b/0",
+    "updated": "2025-11-25T08:28:07+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC6",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0f5b5db2-84e6-4a05-903a-132a4b19eb5b"
+  },
   "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0": {
     "id": "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0",
     "updated": "2025-11-07T08:48:37+00:00",
@@ -1063,6 +1070,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8f6eccd1-56fc-4dc8-849f-021bb637f05c"
   },
+  "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/1": {
+    "id": "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/1",
+    "updated": "2025-11-25T06:35:29+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC2",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/8f6eccd1-56fc-4dc8-849f-021bb637f05c"
+  },
   "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1": {
     "id": "https://status.hetzner.com/8fb2d700-e7ba-49df-8ca5-fc95e100abe2/1",
     "updated": "2024-12-05T07:08:06+00:00",
@@ -1405,6 +1419,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Nuremberg",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/acd478be-b3e2-4a09-ace8-f792ebd37554"
+  },
+  "https://status.hetzner.com/aec3600a-30c7-4f39-902d-534af031ee7f/0": {
+    "id": "https://status.hetzner.com/aec3600a-30c7-4f39-902d-534af031ee7f/0",
+    "updated": "2025-11-25T13:07:29+00:00",
+    "title": "UPS function tests in FSN1-DC14",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/aec3600a-30c7-4f39-902d-534af031ee7f"
   },
   "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1": {
     "id": "https://status.hetzner.com/af5f76c5-622c-4b4c-8cc7-080ca7ca8dde/1",

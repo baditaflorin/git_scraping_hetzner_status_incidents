@@ -20,6 +20,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/02b7ce0a-1364-4956-ad13-1d99af8f9cb7"
   },
+  "https://status.hetzner.com/02d845ab-b221-4b2e-a5a2-8058c7ed7088/0": {
+    "id": "https://status.hetzner.com/02d845ab-b221-4b2e-a5a2-8058c7ed7088/0",
+    "updated": "2025-12-01T09:50:04+00:00",
+    "title": "Maintenance work Hetzner konsoleH",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/02d845ab-b221-4b2e-a5a2-8058c7ed7088"
+  },
   "https://status.hetzner.com/0305fa33-f36a-4ac1-94b0-44d338c26ea6/0": {
     "id": "https://status.hetzner.com/0305fa33-f36a-4ac1-94b0-44d338c26ea6/0",
     "updated": "2025-10-01T13:06:37+00:00",
@@ -1972,6 +1979,13 @@
     "title": "Private Networks DHCP bug fix now live",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f4fdba25-1571-4c16-8d59-a09189374b50"
+  },
+  "https://status.hetzner.com/f56c6bc7-718a-4a92-a971-e2ed2b8c1008/0": {
+    "id": "https://status.hetzner.com/f56c6bc7-718a-4a92-a971-e2ed2b8c1008/0",
+    "updated": "2025-12-01T05:51:49+00:00",
+    "title": "Fault report for UPS systems in DC8",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f56c6bc7-718a-4a92-a971-e2ed2b8c1008"
   },
   "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0": {
     "id": "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0",

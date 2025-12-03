@@ -83,6 +83,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/06de9603-01e3-44ff-b94c-2058d0bad5af"
   },
+  "https://status.hetzner.com/0726a257-59ea-4a47-896b-db82b51eb90c/0": {
+    "id": "https://status.hetzner.com/0726a257-59ea-4a47-896b-db82b51eb90c/0",
+    "updated": "2025-12-02T08:40:34+00:00",
+    "title": "UPS function tests in NBG1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0726a257-59ea-4a47-896b-db82b51eb90c"
+  },
   "https://status.hetzner.com/07fc0bc7-2f4a-4ca0-b528-5032fbbfa6b7/0": {
     "id": "https://status.hetzner.com/07fc0bc7-2f4a-4ca0-b528-5032fbbfa6b7/0",
     "updated": "2025-09-24T08:47:35+00:00",

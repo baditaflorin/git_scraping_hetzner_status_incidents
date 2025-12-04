@@ -622,6 +622,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/55d1dc24-6c28-4970-a100-721bfc141016"
   },
+  "https://status.hetzner.com/5744a0df-170b-421f-9ddc-63f2b447bc29/0": {
+    "id": "https://status.hetzner.com/5744a0df-170b-421f-9ddc-63f2b447bc29/0",
+    "updated": "2025-12-03T10:10:22+00:00",
+    "title": "Maintenance affecting credit card payments",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/5744a0df-170b-421f-9ddc-63f2b447bc29"
+  },
   "https://status.hetzner.com/57673b71-706d-4d18-b18d-fcc4677b4329/0": {
     "id": "https://status.hetzner.com/57673b71-706d-4d18-b18d-fcc4677b4329/0",
     "updated": "2025-07-02T12:29:55+00:00",
@@ -915,6 +922,13 @@
     "title": "Object Storage in location hel1 degraded",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7d30ca69-5914-4747-8e41-c27f7edc8310"
+  },
+  "https://status.hetzner.com/7dd329b6-af47-4ded-98ca-20ce8776dc2a/0": {
+    "id": "https://status.hetzner.com/7dd329b6-af47-4ded-98ca-20ce8776dc2a/0",
+    "updated": "2025-12-03T10:19:30+00:00",
+    "title": "Robot routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7dd329b6-af47-4ded-98ca-20ce8776dc2a"
   },
   "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0": {
     "id": "https://status.hetzner.com/7dde1419-5eb4-4cf9-98c0-57651d53553d/0",
@@ -1972,6 +1986,13 @@
     "title": "Storage Boxes available in Hetzner Console in the future",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f06ffe20-557f-4c7b-ac43-25ce40d96e5c"
+  },
+  "https://status.hetzner.com/f178e344-ff0b-4952-b4b3-f03d395b3059/0": {
+    "id": "https://status.hetzner.com/f178e344-ff0b-4952-b4b3-f03d395b3059/0",
+    "updated": "2025-12-03T10:08:52+00:00",
+    "title": "Maintenance affecting PayPal payments ",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f178e344-ff0b-4952-b4b3-f03d395b3059"
   },
   "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1": {
     "id": "https://status.hetzner.com/f2d8bee3-f758-43f7-9277-74407003eb89/1",

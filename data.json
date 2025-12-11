@@ -1847,6 +1847,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/dbf5e37c-3547-4af8-85e6-7d2a4add40d6"
   },
+  "https://status.hetzner.com/dd4cfce7-1904-44bc-9f55-76fb98a8d51f/0": {
+    "id": "https://status.hetzner.com/dd4cfce7-1904-44bc-9f55-76fb98a8d51f/0",
+    "updated": "2025-12-10T12:06:34+00:00",
+    "title": "Maintenance work on the old DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/dd4cfce7-1904-44bc-9f55-76fb98a8d51f"
+  },
   "https://status.hetzner.com/de84772c-5bfa-4888-83f6-7c8bf9b99d9c/0": {
     "id": "https://status.hetzner.com/de84772c-5bfa-4888-83f6-7c8bf9b99d9c/0",
     "updated": "2025-07-16T12:12:11+00:00",

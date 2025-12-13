@@ -2119,5 +2119,12 @@
     "title": "Object Storage in location nbg1 degraded",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/fe875020-31b7-47ed-83b9-175aff1f60d3"
+  },
+  "https://status.hetzner.com/fe875020-31b7-47ed-83b9-175aff1f60d3/3": {
+    "id": "https://status.hetzner.com/fe875020-31b7-47ed-83b9-175aff1f60d3/3",
+    "updated": "2025-12-12T14:46:07+00:00",
+    "title": "Object Storage in location nbg1 degraded",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/fe875020-31b7-47ed-83b9-175aff1f60d3"
   }
 }

@@ -104,6 +104,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/086d0f48-f338-4e2a-84ac-af145264be3b"
   },
+  "https://status.hetzner.com/08eea4c8-b4e5-40ed-964f-8dd09cf53c75/0": {
+    "id": "https://status.hetzner.com/08eea4c8-b4e5-40ed-964f-8dd09cf53c75/0",
+    "updated": "2025-12-23T08:49:54+00:00",
+    "title": "Support hours between 24 December 2025 and 2 January 2026",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/08eea4c8-b4e5-40ed-964f-8dd09cf53c75"
+  },
   "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0": {
     "id": "https://status.hetzner.com/0922bace-449e-4238-85b2-331ff2edd1af/0",
     "updated": "2025-03-13T14:17:09+00:00",
@@ -2035,6 +2042,13 @@
     "title": "Fault report for UPS systems in DC8",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f56c6bc7-718a-4a92-a971-e2ed2b8c1008"
+  },
+  "https://status.hetzner.com/f649ba8a-2330-4a31-a863-77ae2b85b5ed/0": {
+    "id": "https://status.hetzner.com/f649ba8a-2330-4a31-a863-77ae2b85b5ed/0",
+    "updated": "2025-12-22T07:05:10+00:00",
+    "title": "UPS function tests in FSN1-DC6",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f649ba8a-2330-4a31-a863-77ae2b85b5ed"
   },
   "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0": {
     "id": "https://status.hetzner.com/f73bb25f-5959-4b00-8af2-a82a50cbd984/0",

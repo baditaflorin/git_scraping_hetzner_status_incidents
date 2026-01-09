@@ -6,6 +6,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/001fcae3-aeec-4638-8436-a7eced38325e"
   },
+  "https://status.hetzner.com/00df779f-9279-4fd5-87ba-0ae3d09bcaeb/0": {
+    "id": "https://status.hetzner.com/00df779f-9279-4fd5-87ba-0ae3d09bcaeb/0",
+    "updated": "2026-01-08T11:07:05+00:00",
+    "title": "Maintenance Object Storage",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/00df779f-9279-4fd5-87ba-0ae3d09bcaeb"
+  },
   "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0": {
     "id": "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0",
     "updated": "2025-09-09T10:51:25+00:00",

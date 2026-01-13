@@ -300,6 +300,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/1bcc9a00-b829-4e53-a09e-e56834e2b35f"
   },
+  "https://status.hetzner.com/1d96022c-e1c4-461c-842a-e52e3843581a/0": {
+    "id": "https://status.hetzner.com/1d96022c-e1c4-461c-842a-e52e3843581a/0",
+    "updated": "2026-01-12T16:38:44+00:00",
+    "title": "Hetzner Accounts routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1d96022c-e1c4-461c-842a-e52e3843581a"
+  },
   "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
     "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
     "updated": "2025-03-24T06:23:38+00:00",
@@ -369,6 +376,13 @@
     "title": "Elevated error rate during Rescue system activation on root servers",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/2a981d6d-9c96-4976-b2ac-36e930f61222"
+  },
+  "https://status.hetzner.com/2b0d7f43-bfbb-44c9-9648-a30de4da1637/0": {
+    "id": "https://status.hetzner.com/2b0d7f43-bfbb-44c9-9648-a30de4da1637/0",
+    "updated": "2026-01-12T16:39:24+00:00",
+    "title": "Robot routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2b0d7f43-bfbb-44c9-9648-a30de4da1637"
   },
   "https://status.hetzner.com/2b917fe8-670e-47a7-b8c0-b5673612e35a/0": {
     "id": "https://status.hetzner.com/2b917fe8-670e-47a7-b8c0-b5673612e35a/0",

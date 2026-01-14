@@ -608,6 +608,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/475d48d6-90a6-4c13-bd0d-6f7461da8bb9"
   },
+  "https://status.hetzner.com/47931413-eb99-4ab8-be49-d0047a6c6f7a/1": {
+    "id": "https://status.hetzner.com/47931413-eb99-4ab8-be49-d0047a6c6f7a/1",
+    "updated": "2026-01-13T05:56:40+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC4",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/47931413-eb99-4ab8-be49-d0047a6c6f7a"
+  },
   "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0": {
     "id": "https://status.hetzner.com/482e4f3d-c238-4a03-a062-8753ec19432d/0",
     "updated": "2025-04-28T06:20:59+00:00",
@@ -1301,6 +1308,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/9c6d44f2-cce9-4b97-a75c-9b13a57d1fe3"
   },
+  "https://status.hetzner.com/9e1f839a-a184-4f40-8431-1f43d8731c4c/1": {
+    "id": "https://status.hetzner.com/9e1f839a-a184-4f40-8431-1f43d8731c4c/1",
+    "updated": "2026-01-13T08:34:21+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC8",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/9e1f839a-a184-4f40-8431-1f43d8731c4c"
+  },
   "https://status.hetzner.com/9edc00c5-1c93-4b0d-84bd-b4425e80cfb8/0": {
     "id": "https://status.hetzner.com/9edc00c5-1c93-4b0d-84bd-b4425e80cfb8/0",
     "updated": "2025-09-16T04:48:59+00:00",
@@ -1846,6 +1860,13 @@
     "title": "UPS function tests in FSN1-DC4",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d7a1b955-dcc1-40db-ad66-c505b16b55ae"
+  },
+  "https://status.hetzner.com/d843c8a8-07f8-42a2-ab70-d941f54175e5/0": {
+    "id": "https://status.hetzner.com/d843c8a8-07f8-42a2-ab70-d941f54175e5/0",
+    "updated": "2026-01-13T09:58:14+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d843c8a8-07f8-42a2-ab70-d941f54175e5"
   },
   "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0": {
     "id": "https://status.hetzner.com/d96e0f78-9845-47b8-9ffa-864b69b1dcb0/0",

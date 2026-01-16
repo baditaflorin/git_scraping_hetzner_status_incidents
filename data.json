@@ -1847,6 +1847,20 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/d506aa5b-256e-4611-8c77-a71d305ef410"
   },
+  "https://status.hetzner.com/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15/0": {
+    "id": "https://status.hetzner.com/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15/0",
+    "updated": "2026-01-15T13:51:14+00:00",
+    "title": "Moving IPs and DNS zones to other projects is temporarily disabled",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15"
+  },
+  "https://status.hetzner.com/d62a35d5-18ce-42f0-aed7-d600bf26694b/0": {
+    "id": "https://status.hetzner.com/d62a35d5-18ce-42f0-aed7-d600bf26694b/0",
+    "updated": "2026-01-15T10:38:12+00:00",
+    "title": "New Dedicated System for Network Abuse Cases",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d62a35d5-18ce-42f0-aed7-d600bf26694b"
+  },
   "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0": {
     "id": "https://status.hetzner.com/d6c85f50-371a-417f-8f75-74d010b7e379/0",
     "updated": "2025-06-24T10:27:11+00:00",
@@ -2042,6 +2056,13 @@
     "title": "Maintenance work on abuse system",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/eb6ddd91-6f57-4c8c-a860-4e16974162fc"
+  },
+  "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/0": {
+    "id": "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/0",
+    "updated": "2026-01-15T15:56:30+00:00",
+    "title": "High Utilization of Object Storage in NBG may lead to timeouts",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ebd62173-d902-4e75-939a-265c0b3f1ddb"
   },
   "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0": {
     "id": "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0",

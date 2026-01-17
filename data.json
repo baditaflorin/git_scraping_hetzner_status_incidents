@@ -1854,6 +1854,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15"
   },
+  "https://status.hetzner.com/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15/1": {
+    "id": "https://status.hetzner.com/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15/1",
+    "updated": "2026-01-16T15:31:49+00:00",
+    "title": "Moving DNS zones to other projects is temporarily disabled",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/d55ee87e-f050-4bb4-bf7a-bf03e5e3df15"
+  },
   "https://status.hetzner.com/d62a35d5-18ce-42f0-aed7-d600bf26694b/0": {
     "id": "https://status.hetzner.com/d62a35d5-18ce-42f0-aed7-d600bf26694b/0",
     "updated": "2026-01-15T10:38:12+00:00",

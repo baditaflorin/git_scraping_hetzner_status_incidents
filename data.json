@@ -1084,6 +1084,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/85d49ac4-5ed8-4458-a0ef-8b8d7fd1a73b"
   },
+  "https://status.hetzner.com/883579fe-fc57-4be7-8fd1-c7c4cbf56ad2/0": {
+    "id": "https://status.hetzner.com/883579fe-fc57-4be7-8fd1-c7c4cbf56ad2/0",
+    "updated": "2026-01-19T07:14:22+00:00",
+    "title": "Maintenance Object Storage nbg1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/883579fe-fc57-4be7-8fd1-c7c4cbf56ad2"
+  },
   "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0": {
     "id": "https://status.hetzner.com/8856345f-8dfb-42c5-a9f0-4665fc12d3a7/0",
     "updated": "2025-01-13T11:39:10+00:00",

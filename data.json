@@ -972,6 +972,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7c3e8e37-18ed-4d00-9831-6b4262e15a7e"
   },
+  "https://status.hetzner.com/7c59a8dd-eb23-4844-a873-ef0e103cb31b/0": {
+    "id": "https://status.hetzner.com/7c59a8dd-eb23-4844-a873-ef0e103cb31b/0",
+    "updated": "2026-01-27T16:26:55+00:00",
+    "title": "Robot routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7c59a8dd-eb23-4844-a873-ef0e103cb31b"
+  },
   "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0": {
     "id": "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0",
     "updated": "2025-07-21T08:03:02+00:00",
@@ -1727,6 +1734,13 @@
     "title": "UPS function tests in FSN1-DC8",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/c7221e6a-c1e1-4bf0-881d-3e16a86313ff"
+  },
+  "https://status.hetzner.com/c765a14e-523f-4133-b694-36f8fb2f9b23/0": {
+    "id": "https://status.hetzner.com/c765a14e-523f-4133-b694-36f8fb2f9b23/0",
+    "updated": "2026-01-27T16:23:50+00:00",
+    "title": "Hetzner Accounts routine maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c765a14e-523f-4133-b694-36f8fb2f9b23"
   },
   "https://status.hetzner.com/c8fa6900-8d68-4c06-ab9e-629711395895/0": {
     "id": "https://status.hetzner.com/c8fa6900-8d68-4c06-ab9e-629711395895/0",

@@ -223,6 +223,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/15ef7be8-d264-441d-9844-a6a9ff7a37dc"
   },
+  "https://status.hetzner.com/161f4a72-5da4-4603-82b3-0ab2347607ae/1": {
+    "id": "https://status.hetzner.com/161f4a72-5da4-4603-82b3-0ab2347607ae/1",
+    "updated": "2026-02-03T13:15:20+00:00",
+    "title": "UPS function tests in FSN1-DC18",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/161f4a72-5da4-4603-82b3-0ab2347607ae"
+  },
   "https://status.hetzner.com/17623513-9684-4c73-85f8-1b3356b81ba9/0": {
     "id": "https://status.hetzner.com/17623513-9684-4c73-85f8-1b3356b81ba9/0",
     "updated": "2025-07-17T00:25:38+00:00",
@@ -1720,6 +1727,13 @@
     "title": "Maintenance emergency power system in FSN1-DC3",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/bebe0f30-5cdc-4c34-8a7f-485ad2d1e37c"
+  },
+  "https://status.hetzner.com/c0b3c48b-d38f-4ddc-a5bc-aaf7557629a7/0": {
+    "id": "https://status.hetzner.com/c0b3c48b-d38f-4ddc-a5bc-aaf7557629a7/0",
+    "updated": "2026-02-03T14:49:36+00:00",
+    "title": "Impact of Accounts/Robot maintenance on Hetzner Console",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/c0b3c48b-d38f-4ddc-a5bc-aaf7557629a7"
   },
   "https://status.hetzner.com/c2146c42-6dd2-4454-916a-19f07e0e5a44/0": {
     "id": "https://status.hetzner.com/c2146c42-6dd2-4454-916a-19f07e0e5a44/0",

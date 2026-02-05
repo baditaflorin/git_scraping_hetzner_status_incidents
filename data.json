@@ -335,6 +335,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2297a5d0-3cfa-4b83-bfb5-cb87e0c7845f"
   },
+  "https://status.hetzner.com/2297a5d0-3cfa-4b83-bfb5-cb87e0c7845f/1": {
+    "id": "https://status.hetzner.com/2297a5d0-3cfa-4b83-bfb5-cb87e0c7845f/1",
+    "updated": "2026-02-04T08:32:31+00:00",
+    "title": "Load Balancers: maintenance work",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/2297a5d0-3cfa-4b83-bfb5-cb87e0c7845f"
+  },
   "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0": {
     "id": "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0",
     "updated": "2025-10-14T13:11:28+00:00",
@@ -551,6 +558,13 @@
     "title": "Maintenance work on the DNS API",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/39bedbe2-a830-4eba-9a54-43f3bded630b"
+  },
+  "https://status.hetzner.com/3a6aebf8-a775-406d-9377-1cf7afcf3706/0": {
+    "id": "https://status.hetzner.com/3a6aebf8-a775-406d-9377-1cf7afcf3706/0",
+    "updated": "2026-02-04T06:28:05+00:00",
+    "title": "UPS function tests in FSN1-DC10",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3a6aebf8-a775-406d-9377-1cf7afcf3706"
   },
   "https://status.hetzner.com/3adf8066-3e45-493f-9123-f44f7598bd18/1": {
     "id": "https://status.hetzner.com/3adf8066-3e45-493f-9123-f44f7598bd18/1",
@@ -1189,6 +1203,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/8da9c187-ca2a-4fa0-bf00-56b61e1122e9"
   },
+  "https://status.hetzner.com/8f09839f-7267-47e3-b42f-4537ace663a2/0": {
+    "id": "https://status.hetzner.com/8f09839f-7267-47e3-b42f-4537ace663a2/0",
+    "updated": "2026-02-04T14:44:33+00:00",
+    "title": "Object Storage in location FSN degraded",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8f09839f-7267-47e3-b42f-4537ace663a2"
+  },
   "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/0": {
     "id": "https://status.hetzner.com/8f6eccd1-56fc-4dc8-849f-021bb637f05c/0",
     "updated": "2025-11-24T06:06:57+00:00",
@@ -1672,6 +1693,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b96cf853-aeb5-45b6-86e3-fe871ac39124"
   },
+  "https://status.hetzner.com/bafa52d4-d5e4-476a-a19a-8c9a79ecba7f/0": {
+    "id": "https://status.hetzner.com/bafa52d4-d5e4-476a-a19a-8c9a79ecba7f/0",
+    "updated": "2026-02-04T13:56:25+00:00",
+    "title": "Maintenance work on Object Storage",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/bafa52d4-d5e4-476a-a19a-8c9a79ecba7f"
+  },
   "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0": {
     "id": "https://status.hetzner.com/bb065eaa-a51a-4790-8b37-2e0a95e14534/0",
     "updated": "2025-08-20T09:46:27+00:00",
@@ -2146,6 +2174,13 @@
     "updated": "2026-01-15T15:56:30+00:00",
     "title": "High Utilization of Object Storage in NBG may lead to timeouts",
     "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ebd62173-d902-4e75-939a-265c0b3f1ddb"
+  },
+  "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/1": {
+    "id": "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/1",
+    "updated": "2026-02-04T11:52:04+00:00",
+    "title": "High Utilization of Object Storage may lead to timeouts",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/ebd62173-d902-4e75-939a-265c0b3f1ddb"
   },
   "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0": {

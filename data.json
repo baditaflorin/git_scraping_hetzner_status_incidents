@@ -1014,6 +1014,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7c59a8dd-eb23-4844-a873-ef0e103cb31b"
   },
+  "https://status.hetzner.com/7c6c6fb1-c769-41ff-867b-9efba068d60c/0": {
+    "id": "https://status.hetzner.com/7c6c6fb1-c769-41ff-867b-9efba068d60c/0",
+    "updated": "2026-02-13T13:22:40+00:00",
+    "title": "Cloud NBG1 Network infrastructure maintenance ",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7c6c6fb1-c769-41ff-867b-9efba068d60c"
+  },
   "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0": {
     "id": "https://status.hetzner.com/7d30ca69-5914-4747-8e41-c27f7edc8310/0",
     "updated": "2025-07-21T08:03:02+00:00",

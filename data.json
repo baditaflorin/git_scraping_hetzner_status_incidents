@@ -174,6 +174,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/0f5b5db2-84e6-4a05-903a-132a4b19eb5b"
   },
+  "https://status.hetzner.com/0f720895-ceed-43f0-a52c-fe4098a3778a/0": {
+    "id": "https://status.hetzner.com/0f720895-ceed-43f0-a52c-fe4098a3778a/0",
+    "updated": "2026-02-23T06:51:58+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/0f720895-ceed-43f0-a52c-fe4098a3778a"
+  },
   "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0": {
     "id": "https://status.hetzner.com/11e48cd5-f705-49d3-9dc0-711a3be5f254/0",
     "updated": "2025-11-07T08:48:37+00:00",
@@ -1006,6 +1013,13 @@
     "title": "Maintenance at DENIC",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7b586093-5069-4ba3-a3bf-d7e291a3312b"
+  },
+  "https://status.hetzner.com/7bb552f9-e63f-4afd-983a-1623890cec8c/0": {
+    "id": "https://status.hetzner.com/7bb552f9-e63f-4afd-983a-1623890cec8c/0",
+    "updated": "2026-02-23T06:51:36+00:00",
+    "title": "Maintenance UPS systems in HEL1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/7bb552f9-e63f-4afd-983a-1623890cec8c"
   },
   "https://status.hetzner.com/7c3e8e37-18ed-4d00-9831-6b4262e15a7e/0": {
     "id": "https://status.hetzner.com/7c3e8e37-18ed-4d00-9831-6b4262e15a7e/0",

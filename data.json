@@ -510,6 +510,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/35543eb4-622f-4f28-afee-999c38a2bfc0"
   },
+  "https://status.hetzner.com/368e58c2-c2b2-4d84-b31c-56f4a1ca3553/0": {
+    "id": "https://status.hetzner.com/368e58c2-c2b2-4d84-b31c-56f4a1ca3553/0",
+    "updated": "2026-02-24T11:10:14+00:00",
+    "title": "UPS function tests in HEL1-DC5",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/368e58c2-c2b2-4d84-b31c-56f4a1ca3553"
+  },
   "https://status.hetzner.com/36d8d631-5e74-4767-b87e-b7303cb4a667/3": {
     "id": "https://status.hetzner.com/36d8d631-5e74-4767-b87e-b7303cb4a667/3",
     "updated": "2025-10-30T11:24:39+00:00",
@@ -2364,6 +2371,13 @@
     "title": "Maintenance work on the DNS API",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/fb53b904-1e57-4eac-9b78-f43296cd61c3"
+  },
+  "https://status.hetzner.com/fc92025e-2d87-4497-84a9-368f013a5eab/0": {
+    "id": "https://status.hetzner.com/fc92025e-2d87-4497-84a9-368f013a5eab/0",
+    "updated": "2026-02-24T11:09:09+00:00",
+    "title": "UPS function tests in HEL1-DC3",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/fc92025e-2d87-4497-84a9-368f013a5eab"
   },
   "https://status.hetzner.com/fd28028a-3471-4fb5-a7c7-196fd8b9fed7/0": {
     "id": "https://status.hetzner.com/fd28028a-3471-4fb5-a7c7-196fd8b9fed7/0",

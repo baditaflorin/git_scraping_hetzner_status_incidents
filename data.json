@@ -608,6 +608,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/3ca16271-67a8-4ddf-89fb-281c76421f24"
   },
+  "https://status.hetzner.com/3da56f9b-db27-4ad4-96c9-0fb9b24037ee/0": {
+    "id": "https://status.hetzner.com/3da56f9b-db27-4ad4-96c9-0fb9b24037ee/0",
+    "updated": "2026-02-25T12:19:24+00:00",
+    "title": "Maintenance on DHCP servers in SIN",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3da56f9b-db27-4ad4-96c9-0fb9b24037ee"
+  },
   "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0": {
     "id": "https://status.hetzner.com/3dbdeae1-383b-4ac7-ad5f-71f0f2834e3c/0",
     "updated": "2025-02-21T11:12:11+00:00",
@@ -1966,6 +1973,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/d19bb3a0-1dca-465d-ab08-52d765253c91"
   },
+  "https://status.hetzner.com/d33f747b-966c-49a1-b118-dd1e672f3774/0": {
+    "id": "https://status.hetzner.com/d33f747b-966c-49a1-b118-dd1e672f3774/0",
+    "updated": "2026-02-25T06:58:45+00:00",
+    "title": "UPS function tests in NBG1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/d33f747b-966c-49a1-b118-dd1e672f3774"
+  },
   "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0": {
     "id": "https://status.hetzner.com/d3c644c7-544a-4efb-8266-803e049797fc/0",
     "updated": "2025-04-01T08:04:35+00:00",
@@ -2260,6 +2274,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f"
   },
+  "https://status.hetzner.com/ee0d91f2-2af1-4321-b7c6-64e9d5afe3c6/0": {
+    "id": "https://status.hetzner.com/ee0d91f2-2af1-4321-b7c6-64e9d5afe3c6/0",
+    "updated": "2026-02-25T14:45:07+00:00",
+    "title": "Maintenance work on abuse system",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ee0d91f2-2af1-4321-b7c6-64e9d5afe3c6"
+  },
   "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/0": {
     "id": "https://status.hetzner.com/ee12fec6-42c7-45d5-9d27-2fcc77d2a20e/0",
     "updated": "2025-09-11T14:37:21+00:00",
@@ -2343,6 +2364,13 @@
     "title": "Maintenance work on the KVM assignment",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/f7658e14-4125-45fd-9359-7b25a0f0c71b"
+  },
+  "https://status.hetzner.com/f7ea8b49-a9ae-4cb1-92f6-a4d03f3d36cb/0": {
+    "id": "https://status.hetzner.com/f7ea8b49-a9ae-4cb1-92f6-a4d03f3d36cb/0",
+    "updated": "2026-02-25T06:57:24+00:00",
+    "title": "Function tests on UPS and emergency power systems in NBG1-DC4",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/f7ea8b49-a9ae-4cb1-92f6-a4d03f3d36cb"
   },
   "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0": {
     "id": "https://status.hetzner.com/f814674b-99b5-4da4-9bc5-32df62efe9a1/0",

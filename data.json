@@ -13,6 +13,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/00df779f-9279-4fd5-87ba-0ae3d09bcaeb"
   },
+  "https://status.hetzner.com/018b6afe-c2b0-429c-b3c7-72fe3d4d62e7/1": {
+    "id": "https://status.hetzner.com/018b6afe-c2b0-429c-b3c7-72fe3d4d62e7/1",
+    "updated": "2026-03-02T05:57:22+00:00",
+    "title": "Maintenance work on power supply systems in HEL1-DC9",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/018b6afe-c2b0-429c-b3c7-72fe3d4d62e7"
+  },
   "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0": {
     "id": "https://status.hetzner.com/020993dc-69a9-4275-8301-5dffe33e1757/0",
     "updated": "2025-09-09T10:51:25+00:00",
@@ -972,6 +979,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7182595d-60bc-4f88-9d9b-d26265bbafbe"
   },
+  "https://status.hetzner.com/72a7cfa1-a55c-4222-89ee-f6cf4996aa08/1": {
+    "id": "https://status.hetzner.com/72a7cfa1-a55c-4222-89ee-f6cf4996aa08/1",
+    "updated": "2026-03-02T05:57:35+00:00",
+    "title": "Maintenance work on power supply systems in HEL1-DC10",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/72a7cfa1-a55c-4222-89ee-f6cf4996aa08"
+  },
   "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0": {
     "id": "https://status.hetzner.com/74b6ace3-9eaa-4020-b8cb-6ac1d5a9affa/0",
     "updated": "2025-10-20T09:56:19+00:00",
@@ -1685,6 +1699,13 @@
     "title": "Function tests on UPS and emergency power systems in FSN1-DC5",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/afe2a803-9565-4158-862d-202f7296a2f9"
+  },
+  "https://status.hetzner.com/b0783363-385c-47c9-a8d0-79962eefbacc/0": {
+    "id": "https://status.hetzner.com/b0783363-385c-47c9-a8d0-79962eefbacc/0",
+    "updated": "2026-03-02T11:12:21+00:00",
+    "title": "Maintenance work on the DNS API",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/b0783363-385c-47c9-a8d0-79962eefbacc"
   },
   "https://status.hetzner.com/b201f19c-7fa2-4f1d-a1c9-650bfa2f0258/0": {
     "id": "https://status.hetzner.com/b201f19c-7fa2-4f1d-a1c9-650bfa2f0258/0",

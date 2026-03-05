@@ -622,6 +622,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/3ca16271-67a8-4ddf-89fb-281c76421f24"
   },
+  "https://status.hetzner.com/3ca7090a-c84d-4ca3-ba4c-073c974b44b4/0": {
+    "id": "https://status.hetzner.com/3ca7090a-c84d-4ca3-ba4c-073c974b44b4/0",
+    "updated": "2026-03-04T10:32:30+00:00",
+    "title": "Object Storage in location nbg1 degraded",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/3ca7090a-c84d-4ca3-ba4c-073c974b44b4"
+  },
   "https://status.hetzner.com/3da56f9b-db27-4ad4-96c9-0fb9b24037ee/0": {
     "id": "https://status.hetzner.com/3da56f9b-db27-4ad4-96c9-0fb9b24037ee/0",
     "updated": "2026-02-25T12:19:24+00:00",

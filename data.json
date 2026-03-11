@@ -412,6 +412,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/264765d4-260d-446e-98b0-45f3e81be88d"
   },
+  "https://status.hetzner.com/2818244a-8f5a-4f43-b8ac-43ef3a8ad2a6/0": {
+    "id": "https://status.hetzner.com/2818244a-8f5a-4f43-b8ac-43ef3a8ad2a6/0",
+    "updated": "2026-03-10T15:15:58+00:00",
+    "title": "Optimized user flow for registration and login to Hetzner Accounts",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2818244a-8f5a-4f43-b8ac-43ef3a8ad2a6"
+  },
   "https://status.hetzner.com/28e8127c-1f46-41ac-a52a-d350e381e954/0": {
     "id": "https://status.hetzner.com/28e8127c-1f46-41ac-a52a-d350e381e954/0",
     "updated": "2025-10-13T07:11:33+00:00",
@@ -993,6 +1000,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/7058ee19-8d6f-44a9-8986-acf905734a82"
   },
+  "https://status.hetzner.com/7058ee19-8d6f-44a9-8986-acf905734a82/2": {
+    "id": "https://status.hetzner.com/7058ee19-8d6f-44a9-8986-acf905734a82/2",
+    "updated": "2026-03-10T17:08:38+00:00",
+    "title": "Load Balancers: maintenance work",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/7058ee19-8d6f-44a9-8986-acf905734a82"
+  },
   "https://status.hetzner.com/70dd78c5-3552-4c3e-8ea6-33761f00eb3c/0": {
     "id": "https://status.hetzner.com/70dd78c5-3552-4c3e-8ea6-33761f00eb3c/0",
     "updated": "2025-10-16T12:27:04+00:00",
@@ -1272,6 +1286,13 @@
     "title": "Maintenance emergency power system in HEL1-DC8",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/8c505b2d-060c-4380-958a-f42067a09e59"
+  },
+  "https://status.hetzner.com/8c534bcc-82a9-485c-8680-8711be98dbe1/0": {
+    "id": "https://status.hetzner.com/8c534bcc-82a9-485c-8680-8711be98dbe1/0",
+    "updated": "2026-03-10T10:31:35+00:00",
+    "title": "Function tests on UPS and emergency power systems in FSN1-DC7",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/8c534bcc-82a9-485c-8680-8711be98dbe1"
   },
   "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0": {
     "id": "https://status.hetzner.com/8cdee1d2-23d3-453d-851f-96840e1077a0/0",

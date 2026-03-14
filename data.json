@@ -13,6 +13,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/00df779f-9279-4fd5-87ba-0ae3d09bcaeb"
   },
+  "https://status.hetzner.com/01588dfe-e301-4171-9c63-e101df9c9009/0": {
+    "id": "https://status.hetzner.com/01588dfe-e301-4171-9c63-e101df9c9009/0",
+    "updated": "2026-03-13T09:23:43+00:00",
+    "title": "Maintenance work 2FA",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/01588dfe-e301-4171-9c63-e101df9c9009"
+  },
   "https://status.hetzner.com/018b6afe-c2b0-429c-b3c7-72fe3d4d62e7/1": {
     "id": "https://status.hetzner.com/018b6afe-c2b0-429c-b3c7-72fe3d4d62e7/1",
     "updated": "2026-03-02T05:57:22+00:00",
@@ -1832,6 +1839,13 @@
     "title": "Maintenance telephone infrastructure - FSN1",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/b96cf853-aeb5-45b6-86e3-fe871ac39124"
+  },
+  "https://status.hetzner.com/ba8f7f3c-14a9-4d7d-92d5-97259376d41d/0": {
+    "id": "https://status.hetzner.com/ba8f7f3c-14a9-4d7d-92d5-97259376d41d/0",
+    "updated": "2026-03-13T06:07:19+00:00",
+    "title": "UPS function tests in FSN1-DC7",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/ba8f7f3c-14a9-4d7d-92d5-97259376d41d"
   },
   "https://status.hetzner.com/bafa52d4-d5e4-476a-a19a-8c9a79ecba7f/0": {
     "id": "https://status.hetzner.com/bafa52d4-d5e4-476a-a19a-8c9a79ecba7f/0",

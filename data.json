@@ -741,6 +741,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/482e4f3d-c238-4a03-a062-8753ec19432d"
   },
+  "https://status.hetzner.com/482f558d-182d-4869-ab65-18d935347caf/0": {
+    "id": "https://status.hetzner.com/482f558d-182d-4869-ab65-18d935347caf/0",
+    "updated": "2026-03-17T06:49:41+00:00",
+    "title": "Maintenance on NTP server ntp3.hetzner.net/ntp3.hetzner.com",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/482f558d-182d-4869-ab65-18d935347caf"
+  },
   "https://status.hetzner.com/4943d0dc-29c8-4e94-b103-0c6c85afa892/0": {
     "id": "https://status.hetzner.com/4943d0dc-29c8-4e94-b103-0c6c85afa892/0",
     "updated": "2025-05-13T09:55:40+00:00",

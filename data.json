@@ -384,6 +384,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/2297a5d0-3cfa-4b83-bfb5-cb87e0c7845f"
   },
+  "https://status.hetzner.com/22b4e036-4ef9-45d4-b49c-da81f52228b4/0": {
+    "id": "https://status.hetzner.com/22b4e036-4ef9-45d4-b49c-da81f52228b4/0",
+    "updated": "2026-03-18T10:34:06+00:00",
+    "title": "Load Balancers: maintenance work",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/22b4e036-4ef9-45d4-b49c-da81f52228b4"
+  },
   "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0": {
     "id": "https://status.hetzner.com/236e276d-2a97-4f7a-b07d-2bcadb1f3ac1/0",
     "updated": "2025-10-14T13:11:28+00:00",
@@ -481,6 +488,13 @@
     "title": "Phishing mails stealing (Hetzner) logins",
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/2e715748-fddd-427b-a07b-b34a5a9edee3"
+  },
+  "https://status.hetzner.com/2e821155-a7bb-46bb-a0f1-ca48253fd62a/0": {
+    "id": "https://status.hetzner.com/2e821155-a7bb-46bb-a0f1-ca48253fd62a/0",
+    "updated": "2026-03-18T16:22:04+00:00",
+    "title": "Maintenance work on Object Storage in hel1",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/2e821155-a7bb-46bb-a0f1-ca48253fd62a"
   },
   "https://status.hetzner.com/2ed0fb94-bd93-47b4-b57f-7518eb1398fd/0": {
     "id": "https://status.hetzner.com/2ed0fb94-bd93-47b4-b57f-7518eb1398fd/0",
@@ -1209,6 +1223,13 @@
     "title": "Maintenance at backbone connection between Frankfurt - Helsinki",
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/80943e32-2f9d-4c94-85b6-6cac403ae7b0"
+  },
+  "https://status.hetzner.com/80aff4d5-b7a4-4dfa-a4d8-3c5c4f09bb05/0": {
+    "id": "https://status.hetzner.com/80aff4d5-b7a4-4dfa-a4d8-3c5c4f09bb05/0",
+    "updated": "2026-03-18T15:12:28+00:00",
+    "title": "Maintenance at backbone connection between Falkenstein \u003c=\u003e Frankfurt",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/80aff4d5-b7a4-4dfa-a4d8-3c5c4f09bb05"
   },
   "https://status.hetzner.com/80ea9e23-176e-4a24-bd8b-a3c50d345ee4/0": {
     "id": "https://status.hetzner.com/80ea9e23-176e-4a24-bd8b-a3c50d345ee4/0",

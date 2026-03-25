@@ -2400,6 +2400,13 @@
     "content": "\n      \n      \n      \n      \n    \n    \n    \n    ",
     "link": "https://status.hetzner.com/incident/ebd62173-d902-4e75-939a-265c0b3f1ddb"
   },
+  "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/2": {
+    "id": "https://status.hetzner.com/ebd62173-d902-4e75-939a-265c0b3f1ddb/2",
+    "updated": "2026-03-24T10:57:32+00:00",
+    "title": "High Utilization of Object Storage may lead to timeouts",
+    "content": "\n      \n      \n      \n      \n    \n    \n    \n    \n    \n    \n    ",
+    "link": "https://status.hetzner.com/incident/ebd62173-d902-4e75-939a-265c0b3f1ddb"
+  },
   "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0": {
     "id": "https://status.hetzner.com/ed1b6cc9-a679-49aa-8ea4-be1d20cd459f/0",
     "updated": "2025-04-01T08:24:03+00:00",

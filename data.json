@@ -363,6 +363,13 @@
     "content": "\n      \n      \n      \n      \n    ",
     "link": "https://status.hetzner.com/incident/1d96022c-e1c4-461c-842a-e52e3843581a"
   },
+  "https://status.hetzner.com/1db65730-5033-4fd9-8267-e4ea45293178/0": {
+    "id": "https://status.hetzner.com/1db65730-5033-4fd9-8267-e4ea45293178/0",
+    "updated": "2026-03-26T15:18:02+00:00",
+    "title": "Cloud DNS Creation or Changing Delay",
+    "content": "\n      \n      \n      \n      \n    ",
+    "link": "https://status.hetzner.com/incident/1db65730-5033-4fd9-8267-e4ea45293178"
+  },
   "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0": {
     "id": "https://status.hetzner.com/205efccd-b5bd-4701-926a-c9349f6310ad/0",
     "updated": "2025-03-24T06:23:38+00:00",
